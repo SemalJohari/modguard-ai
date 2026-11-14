@@ -1,4 +1,4 @@
-# ModGuard AI - Context-Aware AI Content Moderation Engine
+## ModGuard AI - Context-Aware AI Content Moderation Engine
 
 ModGuard AI is an academic prototype for context-aware online content
 moderation. It combines multi-label text classification,
@@ -11,7 +11,7 @@ moderator review in a single moderation workflow.
 > moderation performance. Evaluation on a separate test set and
 > human-annotated real-world comments is still required.
 
-## Key Features
+### Key Features
 
 -   **Multi-label harmful-content classification:** A fine-tuned
     DistilBERT model predicts seven labels independently: `toxicity`,
@@ -31,7 +31,7 @@ moderator review in a single moderation workflow.
     Streamlit provides an interface for submitting comments and viewing
     moderation results.
 
-## Architecture
+### Architecture
 
 ``` text
 User / Moderator
@@ -58,7 +58,7 @@ FastAPI Moderation API
 Moderation Result / Moderator Review
 ```
 
-## Technology Stack
+### Technology Stack
 
   1. Programming language: Python
   2. NLP model: DistilBERT, Hugging Face Transformers
@@ -70,7 +70,7 @@ Moderation Result / Moderator Review
   8. Prototype database: SQLite
   9. Training environment: Google Colab (T4 GPU)
 
-## Model and Training
+### Model and Training
 
 The text classifier uses DistilBERT for multi-label classification. Each
 moderation label is predicted independently, allowing a comment to
@@ -96,7 +96,7 @@ precision, recall, F1-score, and average precision across the seven
 labels. Because the dataset is synthetic and template-based, these
 results may reflect patterns in the generated examples. 
 
-## Moderation Workflow
+### Moderation Workflow
 
 1.  A client submits a comment and metadata to the FastAPI moderation
     endpoint.
@@ -116,16 +116,16 @@ Model checkpoints and local database files are intentionally excluded
 from this repository and are hosted
 separately (on the Hugging Face Hub).
 
-## Run Locally
+### Run Locally
 
-### 1. Clone the repository
+#### 1. Clone the repository
 
 ``` bash
 git clone https://github.com/SemalJohari/modguard-ai.git
 cd modguard-ai
 ```
 
-### 2. Create and activate a virtual environment
+#### 2. Create and activate a virtual environment
 
 On Linux:
 
@@ -134,14 +134,14 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-### 3. Install dependencies
+#### 3. Install dependencies
 
 ``` bash
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### 4. Configure the model
+#### 4. Configure the model
 
 Place the trained model directory at the path expected by
 `app/moderation.py` (currently `models/contextual_02/`), or update the
@@ -151,7 +151,7 @@ The model directory is not included in this Git repository. You must
 obtain the trained model artefacts separately before running model
 inference.
 
-### 5. Start the FastAPI backend
+#### 5. Start the FastAPI backend
 
 ``` bash
 uvicorn app.api:app --reload --host 127.0.0.1 --port 8000
@@ -163,7 +163,7 @@ The API documentation is available at:
 http://127.0.0.1:8000/docs
 ```
 
-### 6. Start the Streamlit dashboard
+#### 6. Start the Streamlit dashboard
 
 Open a second terminal, activate the same virtual environment, navigate
 to the project directory, and run:
@@ -174,21 +174,19 @@ streamlit run streamlit_app.py
 
 Streamlit will print the local dashboard URL in the terminal.
 
-## API Endpoints
+### API Endpoints
 
   
  | Method | Endpoint                        |    Purpose                      |
  | ------ | ------------------------------- | ------------------------------- |
  | POST   | /moderate                       | Submit a comment for moderation |
- |        |                                 |                                 |
  | POST   | /moderation/{comment_id}/review | Record a moderator's review     |                                              
   
-
 The moderation request supports fields such as `comment_id`,
 `author_id`, `text`, optional `parent_comment`, optional
 `parent_comment_id`, `community_id`, and `language`.
 
-## Limitations and Future Work
+### Limitations and Future Work
 
 -   Replace or supplement synthetic training data with diverse,
     human-annotated real-world comments.
