@@ -179,12 +179,12 @@ Streamlit will print the local dashboard URL in the terminal.
   -----------------------------------------------------------------------------------
   Method                  Endpoint                            Purpose
   ----------------------- ----------------------------------- -----------------------
-  `POST`                  `/moderate`                         Submit a comment for
+  POST                  /moderate                         Submit a comment for
                                                               moderation
 
-  `POST`                  `/moderation/{comment_id}/review`   Record a moderator's
+  POST                  /moderation/{comment_id}/review   Record a moderator's
                                                               review
-  -----------------------------------------------------------------------------------
+  
 
 The moderation request supports fields such as `comment_id`,
 `author_id`, `text`, optional `parent_comment`, optional
