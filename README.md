@@ -1,4 +1,4 @@
-# ModGuard AI --- Context-Aware AI Content Moderation Engine
+# ModGuard AI - Context-Aware AI Content Moderation Engine
 
 ModGuard AI is an academic prototype for context-aware online content
 moderation. It combines multi-label text classification,
@@ -96,10 +96,7 @@ includes a limited set of contextual comment pairs.
 The reported validation metrics for the current experiment were 1.00 for
 precision, recall, F1-score, and average precision across the seven
 labels. Because the dataset is synthetic and template-based, these
-results may reflect patterns in the generated examples. They are not
-proof of generalisation to real online discussions. The held-out test
-set and a human-annotated real-world dataset should be evaluated before
-making performance claims.
+results may reflect patterns in the generated examples. 
 
 ## Moderation Workflow
 
@@ -117,46 +114,9 @@ making performance claims.
     SQLite.
 6.  A moderator can submit a review through the review endpoint.
 
-**Important implementation note:** In the current prototype, detected
-policy violations are routed to `manual_review`. Do not interpret YAML
-action labels as proof that automatic removal or escalation is currently
-enforced. The review endpoint also does not implement authentication, so
-this project is not ready for production deployment.
-
-## Project Structure
-
-``` text
-modguard-ai/
-├── app/
-│   ├── api.py
-│   ├── context.py
-│   ├── database.py
-│   ├── moderation.py
-│   ├── policy.py
-│   ├── schemas.py
-│   ├── spam_detection.py
-│   └── spam_history.py
-├── src/
-│   ├── data/
-│   │   ├── validate_contextual_data.py
-│   │   ├── generate_contextual_v2.py
-│   │   └── generate_contextual_v3.py
-│   └── models/
-│       └── train_contextual.py
-├── data/
-│   ├── contextual/
-│   └── experiments/
-│       ├── v2/
-│       └── v3/
-├── streamlit_app.py
-├── requirements.txt
-└── README.md
-```
-
 Model checkpoints and local database files are intentionally excluded
-from this repository. Large trained model artefacts should be hosted
-separately (for example, on the Hugging Face Hub) and
-downloaded/configured for the deployment environment.
+from this repository and are hosted
+separately (on the Hugging Face Hub).
 
 ## Run Locally
 
@@ -236,29 +196,13 @@ The moderation request supports fields such as `comment_id`,
 
 -   Replace or supplement synthetic training data with diverse,
     human-annotated real-world comments.
--   Evaluate on the held-out test split and report per-label precision,
-    recall, F1-score, average precision, and threshold behaviour.
 -   Assess generalisation across communities, writing styles, slang,
     spelling variations, and adversarial inputs.
 -   Extend context handling beyond a single parent comment where
     appropriate.
--   Improve probability calibration and tune decision thresholds against
-    moderation costs.
 -   Add authentication, authorization, audit controls, rate limiting,
     and robust input validation.
 -   Use a production database such as PostgreSQL and persistent storage
     for deployed moderation records.
 -   Implement and test explicit policy actions if automatic removal or
     escalation is required.
-
-## Disclaimer
-
-ModGuard AI is developed for academic and demonstration purposes. It is
-not a production-ready content moderation service. Model predictions can
-be incorrect and should not be treated as definitive judgments about a
-user or comment. Human review and further evaluation are necessary
-before real-world use.
-
-## Author
-
-**Semal Johari**
