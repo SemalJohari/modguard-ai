@@ -1,0 +1,1001 @@
+comment_id,thread_id,text,parent_comment,community_id,language,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit,scenario_type
+train_00001,train_thread_00001,I will deal with you.,We are celebrating the excellent result of the software release.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+train_00002,train_thread_00002,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00003,train_thread_00003,I have reviewed the research and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00004,train_thread_00004,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00005,train_thread_00005,I have reviewed the analysis and would recommend a different approach.,We are discussing the software release. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00006,train_thread_00006,That is sick.,You are mocking me during the software release.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00007,train_thread_00007,I have reviewed the presentation and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00008,train_thread_00008,I will find you and hurt you if you continue this.,The discussion concerns the review.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00009,train_thread_00009,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00010,train_thread_00010,This is a vulgar and obscene piece of work.,Please review the experiment.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00011,train_thread_00011,I will deal with you.,You threatened to hurt me during the software release.,community_demo,en,1,0,0,1,0,0,0,context_sensitive
+train_00012,train_thread_00012,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00013,train_thread_00013,This is a vulgar and obscene piece of work.,Please review the discussion.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00014,train_thread_00014,You are an incompetent fool who cannot understand implementation.,We are reviewing the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00015,train_thread_00015,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00016,train_thread_00016,That was a dirty move.,The discussion concerns obscene language used during the software release.,community_beta,en,1,0,1,0,0,0,0,context_sensitive
+train_00017,train_thread_00017,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00018,train_thread_00018,This is a vulgar and obscene piece of work.,Please review the project.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00019,train_thread_00019,I have reviewed the decision and would recommend a different approach.,We are discussing the project. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00020,train_thread_00020,You are an incompetent fool who cannot understand analysis.,We are reviewing the experiment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00021,train_thread_00021,That was a dirty move.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00022,train_thread_00022,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00023,train_thread_00023,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00024,train_thread_00024,This is a vulgar and obscene piece of work.,Please review the experiment.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00025,train_thread_00025,You are an incompetent fool who cannot understand solution.,We are reviewing the project.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00026,train_thread_00026,That is sick.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00027,train_thread_00027,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00028,train_thread_00028,The message contains explicit sexual descriptions.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00029,train_thread_00029,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00030,train_thread_00030,I have reviewed the argument and would recommend a different approach.,We are discussing the project. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00031,train_thread_00031,You are killing it.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00032,train_thread_00032,You are an incompetent fool who cannot understand argument.,We are reviewing the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00033,train_thread_00033,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00034,train_thread_00034,This is a vulgar and obscene piece of work.,Please review the discussion.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00035,train_thread_00035,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00036,train_thread_00036,You are killing it.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00037,train_thread_00037,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00038,train_thread_00038,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00039,train_thread_00039,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00040,train_thread_00040,You are an incompetent fool who cannot understand implementation.,We are reviewing the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00041,train_thread_00041,That was a dirty move.,The discussion concerns obscene language used during the project.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+train_00042,train_thread_00042,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00043,train_thread_00043,You are an incompetent fool who cannot understand presentation.,We are reviewing the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00044,train_thread_00044,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00045,train_thread_00045,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00046,train_thread_00046,That is sick.,We are celebrating the excellent result of the experiment.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+train_00047,train_thread_00047,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00048,train_thread_00048,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00049,train_thread_00049,Your implementation is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00050,train_thread_00050,You are an incompetent fool who cannot understand decision.,We are reviewing the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00051,train_thread_00051,That is sick.,You are mocking me during the discussion.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00052,train_thread_00052,This is a vulgar and obscene piece of work.,Please review the discussion.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00053,train_thread_00053,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00054,train_thread_00054,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00055,train_thread_00055,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00056,train_thread_00056,I will deal with you.,Please provide feedback about the project.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00057,train_thread_00057,You are an incompetent fool who cannot understand analysis.,We are reviewing the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00058,train_thread_00058,This is a vulgar and obscene piece of work.,Please review the software release.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00059,train_thread_00059,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00060,train_thread_00060,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00061,train_thread_00061,That was a dirty move.,We are celebrating the excellent result of the project.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+train_00062,train_thread_00062,The message contains explicit sexual descriptions.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00063,train_thread_00063,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00064,train_thread_00064,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00065,train_thread_00065,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00066,train_thread_00066,I will deal with you.,We are discussing the review.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00067,train_thread_00067,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00068,train_thread_00068,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00069,train_thread_00069,This is a vulgar and obscene piece of work.,Please review the software release.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00070,train_thread_00070,I have reviewed the proposal and would recommend a different approach.,We are discussing the discussion. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00071,train_thread_00071,I will deal with you.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,context_sensitive
+train_00072,train_thread_00072,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00073,train_thread_00073,This is a vulgar and obscene piece of work.,Please review the experiment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00074,train_thread_00074,I have reviewed the research and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00075,train_thread_00075,Your research is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00076,train_thread_00076,That was a dirty move.,The discussion concerns obscene language used during the project.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+train_00077,train_thread_00077,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00078,train_thread_00078,You are an incompetent fool who cannot understand research.,We are reviewing the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00079,train_thread_00079,This is a vulgar and obscene piece of work.,Please review the discussion.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00080,train_thread_00080,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00081,train_thread_00081,That is sick.,You are mocking me during the review.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00082,train_thread_00082,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00083,train_thread_00083,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00084,train_thread_00084,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00085,train_thread_00085,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00086,train_thread_00086,I will deal with you.,You threatened to hurt me during the experiment.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00087,train_thread_00087,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00088,train_thread_00088,You are an incompetent fool who cannot understand design.,We are reviewing the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00089,train_thread_00089,I have reviewed the implementation and would recommend a different approach.,We are discussing the software release. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00090,train_thread_00090,You are an incompetent fool who cannot understand solution.,We are reviewing the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00091,train_thread_00091,I will deal with you.,You threatened to hurt me during the software release.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00092,train_thread_00092,I have reviewed the analysis and would recommend a different approach.,We are discussing the discussion. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00093,train_thread_00093,You are an incompetent fool who cannot understand proposal.,We are reviewing the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00094,train_thread_00094,I have reviewed the argument and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00095,train_thread_00095,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00096,train_thread_00096,That is sick.,Please review the content in the discussion.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+train_00097,train_thread_00097,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00098,train_thread_00098,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00099,train_thread_00099,This is a vulgar and obscene piece of work.,Please review the discussion.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00100,train_thread_00100,Your report is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00101,train_thread_00101,I will deal with you.,You threatened to hurt me during the discussion.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+train_00102,train_thread_00102,The message contains explicit sexual descriptions.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00103,train_thread_00103,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00104,train_thread_00104,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00105,train_thread_00105,You are an incompetent fool who cannot understand argument.,We are reviewing the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00106,train_thread_00106,You are killing it.,Please provide feedback about the project.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00107,train_thread_00107,You are an incompetent fool who cannot understand analysis.,We are reviewing the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00108,train_thread_00108,You are an incompetent fool who cannot understand presentation.,We are reviewing the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00109,train_thread_00109,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00110,train_thread_00110,I have reviewed the implementation and would recommend a different approach.,We are discussing the discussion. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00111,train_thread_00111,I will deal with you.,You threatened to hurt me during the software release.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00112,train_thread_00112,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00113,train_thread_00113,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00114,train_thread_00114,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00115,train_thread_00115,Your analysis is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00116,train_thread_00116,I will deal with you.,You threatened to hurt me during the experiment.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+train_00117,train_thread_00117,I have reviewed the decision and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00118,train_thread_00118,You are an incompetent fool who cannot understand implementation.,We are reviewing the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00119,train_thread_00119,You are an incompetent fool who cannot understand report.,We are reviewing the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00120,train_thread_00120,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00121,train_thread_00121,That was a dirty move.,We are celebrating the excellent result of the review.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+train_00122,train_thread_00122,You are an incompetent fool who cannot understand proposal.,We are reviewing the experiment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00123,train_thread_00123,I have reviewed the report and would recommend a different approach.,We are discussing the software release. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00124,train_thread_00124,You are an incompetent fool who cannot understand implementation.,We are reviewing the project.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00125,train_thread_00125,I have reviewed the argument and would recommend a different approach.,We are discussing the experiment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00126,train_thread_00126,You are killing it.,We are celebrating the excellent result of the experiment.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+train_00127,train_thread_00127,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00128,train_thread_00128,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00129,train_thread_00129,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00130,train_thread_00130,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00131,train_thread_00131,You are killing it.,We are celebrating the excellent result of the project.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+train_00132,train_thread_00132,This is a vulgar and obscene piece of work.,Please review the software release.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00133,train_thread_00133,This is a vulgar and obscene piece of work.,Please review the experiment.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00134,train_thread_00134,Your proposal is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00135,train_thread_00135,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00136,train_thread_00136,You are killing it.,Please review the content in the project.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+train_00137,train_thread_00137,You are an incompetent fool who cannot understand research.,We are reviewing the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00138,train_thread_00138,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00139,train_thread_00139,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00140,train_thread_00140,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00141,train_thread_00141,That was a dirty move.,The discussion concerns obscene language used during the discussion.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+train_00142,train_thread_00142,You are an incompetent fool who cannot understand presentation.,We are reviewing the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00143,train_thread_00143,I have reviewed the report and would recommend a different approach.,We are discussing the review. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00144,train_thread_00144,You are an incompetent fool who cannot understand analysis.,We are reviewing the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00145,train_thread_00145,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00146,train_thread_00146,That is sick.,We are discussing the discussion.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00147,train_thread_00147,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00148,train_thread_00148,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00149,train_thread_00149,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00150,train_thread_00150,Your implementation is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00151,train_thread_00151,I will deal with you.,You threatened to hurt me during the review.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00152,train_thread_00152,I have reviewed the report and would recommend a different approach.,We are discussing the review. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00153,train_thread_00153,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00154,train_thread_00154,This is a vulgar and obscene piece of work.,Please review the experiment.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00155,train_thread_00155,I will find you and hurt you if you continue this.,The discussion concerns the review.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00156,train_thread_00156,I will deal with you.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,context_sensitive
+train_00157,train_thread_00157,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00158,train_thread_00158,The message contains explicit sexual descriptions.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00159,train_thread_00159,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00160,train_thread_00160,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00161,train_thread_00161,I will deal with you.,You threatened to hurt me during the experiment.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+train_00162,train_thread_00162,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00163,train_thread_00163,I have reviewed the design and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00164,train_thread_00164,Your design is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00165,train_thread_00165,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00166,train_thread_00166,That is sick.,You are mocking me during the experiment.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00167,train_thread_00167,I have reviewed the argument and would recommend a different approach.,We are discussing the experiment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00168,train_thread_00168,You are an incompetent fool who cannot understand implementation.,We are reviewing the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00169,train_thread_00169,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00170,train_thread_00170,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00171,train_thread_00171,This is insane.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+train_00172,train_thread_00172,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00173,train_thread_00173,The message contains explicit sexual descriptions.,Please review the content in the project.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00174,train_thread_00174,You are an incompetent fool who cannot understand implementation.,We are reviewing the experiment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00175,train_thread_00175,I have reviewed the argument and would recommend a different approach.,We are discussing the discussion. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00176,train_thread_00176,I will deal with you.,We are celebrating the excellent result of the experiment.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+train_00177,train_thread_00177,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00178,train_thread_00178,This is a vulgar and obscene piece of work.,Please review the experiment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00179,train_thread_00179,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00180,train_thread_00180,Your research is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00181,train_thread_00181,That is sick.,You are mocking me during the experiment.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00182,train_thread_00182,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00183,train_thread_00183,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00184,train_thread_00184,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00185,train_thread_00185,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00186,train_thread_00186,I will deal with you.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00187,train_thread_00187,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00188,train_thread_00188,You are an incompetent fool who cannot understand solution.,We are reviewing the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00189,train_thread_00189,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00190,train_thread_00190,Your research is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00191,train_thread_00191,That is sick.,You are mocking me during the experiment.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00192,train_thread_00192,I have reviewed the analysis and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00193,train_thread_00193,You are an incompetent fool who cannot understand research.,We are reviewing the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00194,train_thread_00194,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00195,train_thread_00195,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00196,train_thread_00196,That is sick.,You are mocking me during the discussion.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00197,train_thread_00197,I have reviewed the report and would recommend a different approach.,We are discussing the experiment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00198,train_thread_00198,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00199,train_thread_00199,This is a vulgar and obscene piece of work.,Please review the review.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00200,train_thread_00200,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00201,train_thread_00201,You are killing it.,We are discussing the experiment.,community_demo,en,1,1,0,0,1,0,0,context_sensitive
+train_00202,train_thread_00202,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00203,train_thread_00203,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00204,train_thread_00204,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00205,train_thread_00205,You are an incompetent fool who cannot understand report.,We are reviewing the experiment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00206,train_thread_00206,That is sick.,You are mocking me during the review.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00207,train_thread_00207,You are an incompetent fool who cannot understand solution.,We are reviewing the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00208,train_thread_00208,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00209,train_thread_00209,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00210,train_thread_00210,You are an incompetent fool who cannot understand solution.,We are reviewing the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00211,train_thread_00211,I will deal with you.,We are discussing the experiment.,community_beta,en,1,1,0,0,1,0,0,context_sensitive
+train_00212,train_thread_00212,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00213,train_thread_00213,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00214,train_thread_00214,This is a vulgar and obscene piece of work.,Please review the discussion.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00215,train_thread_00215,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00216,train_thread_00216,That is sick.,Please provide feedback about the review.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00217,train_thread_00217,I have reviewed the argument and would recommend a different approach.,We are discussing the project. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00218,train_thread_00218,Your analysis is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00219,train_thread_00219,I have reviewed the implementation and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00220,train_thread_00220,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00221,train_thread_00221,That is sick.,Please review the content in the review.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+train_00222,train_thread_00222,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00223,train_thread_00223,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00224,train_thread_00224,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00225,train_thread_00225,The message contains explicit sexual descriptions.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00226,train_thread_00226,This is insane.,We are celebrating the excellent result of the discussion.,community_beta,en,0,0,0,0,0,0,0,context_sensitive
+train_00227,train_thread_00227,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00228,train_thread_00228,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00229,train_thread_00229,This is a vulgar and obscene piece of work.,Please review the software release.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00230,train_thread_00230,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00231,train_thread_00231,That was a dirty move.,The discussion concerns obscene language used during the discussion.,community_beta,en,1,0,1,0,0,0,0,context_sensitive
+train_00232,train_thread_00232,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00233,train_thread_00233,I have reviewed the design and would recommend a different approach.,We are discussing the discussion. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00234,train_thread_00234,You are an incompetent fool who cannot understand solution.,We are reviewing the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00235,train_thread_00235,I have reviewed the design and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00236,train_thread_00236,I will deal with you.,Please review the content in the experiment.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+train_00237,train_thread_00237,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00238,train_thread_00238,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00239,train_thread_00239,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00240,train_thread_00240,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00241,train_thread_00241,I will deal with you.,You threatened to hurt me during the software release.,community_demo,en,1,0,0,1,0,0,0,context_sensitive
+train_00242,train_thread_00242,Your solution is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00243,train_thread_00243,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00244,train_thread_00244,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00245,train_thread_00245,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00246,train_thread_00246,I will deal with you.,Please review the content in the experiment.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+train_00247,train_thread_00247,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00248,train_thread_00248,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00249,train_thread_00249,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00250,train_thread_00250,I have reviewed the research and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00251,train_thread_00251,I will deal with you.,Please review the content in the discussion.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+train_00252,train_thread_00252,Your research is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00253,train_thread_00253,You are an incompetent fool who cannot understand design.,We are reviewing the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00254,train_thread_00254,This is a vulgar and obscene piece of work.,Please review the project.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00255,train_thread_00255,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00256,train_thread_00256,That was a dirty move.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,context_sensitive
+train_00257,train_thread_00257,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00258,train_thread_00258,This is a vulgar and obscene piece of work.,Please review the discussion.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00259,train_thread_00259,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00260,train_thread_00260,This is a vulgar and obscene piece of work.,Please review the discussion.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00261,train_thread_00261,This is insane.,We are celebrating the excellent result of the project.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+train_00262,train_thread_00262,This is a vulgar and obscene piece of work.,Please review the experiment.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00263,train_thread_00263,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00264,train_thread_00264,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00265,train_thread_00265,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00266,train_thread_00266,I will deal with you.,We are discussing the experiment.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00267,train_thread_00267,Your solution is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00268,train_thread_00268,I have reviewed the presentation and would recommend a different approach.,We are discussing the review. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00269,train_thread_00269,The message contains explicit sexual descriptions.,Please review the content in the review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00270,train_thread_00270,This is a vulgar and obscene piece of work.,Please review the discussion.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00271,train_thread_00271,That was a dirty move.,The discussion concerns obscene language used during the discussion.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+train_00272,train_thread_00272,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00273,train_thread_00273,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00274,train_thread_00274,Your proposal is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00275,train_thread_00275,This is a vulgar and obscene piece of work.,Please review the experiment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00276,train_thread_00276,I will deal with you.,You threatened to hurt me during the review.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+train_00277,train_thread_00277,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00278,train_thread_00278,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00279,train_thread_00279,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00280,train_thread_00280,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00281,train_thread_00281,That was a dirty move.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00282,train_thread_00282,This is a vulgar and obscene piece of work.,Please review the review.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00283,train_thread_00283,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00284,train_thread_00284,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00285,train_thread_00285,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00286,train_thread_00286,You are killing it.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00287,train_thread_00287,I will find you and hurt you if you continue this.,The discussion concerns the review.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00288,train_thread_00288,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00289,train_thread_00289,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00290,train_thread_00290,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00291,train_thread_00291,You are killing it.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,context_sensitive
+train_00292,train_thread_00292,You are an incompetent fool who cannot understand argument.,We are reviewing the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00293,train_thread_00293,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00294,train_thread_00294,You are an incompetent fool who cannot understand argument.,We are reviewing the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00295,train_thread_00295,This is a vulgar and obscene piece of work.,Please review the project.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00296,train_thread_00296,That was a dirty move.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00297,train_thread_00297,I have reviewed the research and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00298,train_thread_00298,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00299,train_thread_00299,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00300,train_thread_00300,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00301,train_thread_00301,I will deal with you.,Please review the content in the review.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+train_00302,train_thread_00302,The message contains explicit sexual descriptions.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00303,train_thread_00303,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00304,train_thread_00304,This is a vulgar and obscene piece of work.,Please review the discussion.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00305,train_thread_00305,Your proposal is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00306,train_thread_00306,That was a dirty move.,The discussion concerns obscene language used during the software release.,community_beta,en,1,0,1,0,0,0,0,context_sensitive
+train_00307,train_thread_00307,You are an incompetent fool who cannot understand design.,We are reviewing the project.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00308,train_thread_00308,You are an incompetent fool who cannot understand report.,We are reviewing the experiment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00309,train_thread_00309,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00310,train_thread_00310,I have reviewed the presentation and would recommend a different approach.,We are discussing the experiment. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00311,train_thread_00311,I will deal with you.,You threatened to hurt me during the experiment.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00312,train_thread_00312,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00313,train_thread_00313,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00314,train_thread_00314,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00315,train_thread_00315,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00316,train_thread_00316,That was a dirty move.,We are discussing the review.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+train_00317,train_thread_00317,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00318,train_thread_00318,You are an incompetent fool who cannot understand argument.,We are reviewing the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00319,train_thread_00319,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00320,train_thread_00320,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00321,train_thread_00321,That is sick.,Please provide feedback about the discussion.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00322,train_thread_00322,I have reviewed the proposal and would recommend a different approach.,We are discussing the experiment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00323,train_thread_00323,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00324,train_thread_00324,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00325,train_thread_00325,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00326,train_thread_00326,I will deal with you.,You threatened to hurt me during the experiment.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+train_00327,train_thread_00327,You are an incompetent fool who cannot understand design.,We are reviewing the experiment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00328,train_thread_00328,Your solution is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00329,train_thread_00329,This is a vulgar and obscene piece of work.,Please review the project.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00330,train_thread_00330,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00331,train_thread_00331,That was a dirty move.,The discussion concerns obscene language used during the discussion.,community_beta,en,1,0,1,0,0,0,0,context_sensitive
+train_00332,train_thread_00332,The message contains explicit sexual descriptions.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00333,train_thread_00333,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00334,train_thread_00334,I have reviewed the implementation and would recommend a different approach.,We are discussing the project. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00335,train_thread_00335,I have reviewed the decision and would recommend a different approach.,We are discussing the experiment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00336,train_thread_00336,This is insane.,Please review the content in the review.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+train_00337,train_thread_00337,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00338,train_thread_00338,This is a vulgar and obscene piece of work.,Please review the review.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00339,train_thread_00339,I have reviewed the solution and would recommend a different approach.,We are discussing the discussion. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00340,train_thread_00340,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00341,train_thread_00341,That is sick.,You are mocking me during the discussion.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00342,train_thread_00342,The message contains explicit sexual descriptions.,Please review the content in the project.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00343,train_thread_00343,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00344,train_thread_00344,The message contains explicit sexual descriptions.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00345,train_thread_00345,I have reviewed the presentation and would recommend a different approach.,We are discussing the experiment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00346,train_thread_00346,That was a dirty move.,The discussion concerns obscene language used during the review.,community_beta,en,1,0,1,0,0,0,0,context_sensitive
+train_00347,train_thread_00347,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00348,train_thread_00348,This is a vulgar and obscene piece of work.,Please review the discussion.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00349,train_thread_00349,This is a vulgar and obscene piece of work.,Please review the discussion.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00350,train_thread_00350,I have reviewed the design and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00351,train_thread_00351,That is sick.,We are celebrating the excellent result of the experiment.,community_beta,en,0,0,0,0,0,0,0,context_sensitive
+train_00352,train_thread_00352,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00353,train_thread_00353,This is a vulgar and obscene piece of work.,Please review the experiment.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00354,train_thread_00354,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00355,train_thread_00355,You are an incompetent fool who cannot understand presentation.,We are reviewing the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00356,train_thread_00356,This is insane.,Please provide feedback about the project.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00357,train_thread_00357,I have reviewed the research and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00358,train_thread_00358,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00359,train_thread_00359,The message contains explicit sexual descriptions.,Please review the content in the review.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00360,train_thread_00360,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00361,train_thread_00361,That was a dirty move.,Please review the content in the experiment.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+train_00362,train_thread_00362,I have reviewed the research and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00363,train_thread_00363,I have reviewed the argument and would recommend a different approach.,We are discussing the project. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00364,train_thread_00364,You are an incompetent fool who cannot understand solution.,We are reviewing the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00365,train_thread_00365,You are an incompetent fool who cannot understand argument.,We are reviewing the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00366,train_thread_00366,I will deal with you.,You threatened to hurt me during the review.,community_demo,en,1,0,0,1,0,0,0,context_sensitive
+train_00367,train_thread_00367,This is a vulgar and obscene piece of work.,Please review the discussion.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00368,train_thread_00368,This is a vulgar and obscene piece of work.,Please review the project.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00369,train_thread_00369,This is a vulgar and obscene piece of work.,Please review the review.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00370,train_thread_00370,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00371,train_thread_00371,That was a dirty move.,We are discussing the review.,community_alpha,en,1,1,0,0,1,0,0,context_sensitive
+train_00372,train_thread_00372,I have reviewed the analysis and would recommend a different approach.,We are discussing the review. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00373,train_thread_00373,You are an incompetent fool who cannot understand design.,We are reviewing the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00374,train_thread_00374,I have reviewed the implementation and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00375,train_thread_00375,I have reviewed the presentation and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00376,train_thread_00376,This is insane.,We are discussing the experiment.,community_demo,en,1,1,0,0,1,0,0,context_sensitive
+train_00377,train_thread_00377,Your solution is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00378,train_thread_00378,The message contains explicit sexual descriptions.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00379,train_thread_00379,I have reviewed the decision and would recommend a different approach.,We are discussing the project. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00380,train_thread_00380,Your design is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00381,train_thread_00381,I will deal with you.,You threatened to hurt me during the software release.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+train_00382,train_thread_00382,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00383,train_thread_00383,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00384,train_thread_00384,Your analysis is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00385,train_thread_00385,This is a vulgar and obscene piece of work.,Please review the review.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00386,train_thread_00386,This is insane.,Please review the content in the discussion.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+train_00387,train_thread_00387,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00388,train_thread_00388,You are an incompetent fool who cannot understand solution.,We are reviewing the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00389,train_thread_00389,You are an incompetent fool who cannot understand report.,We are reviewing the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00390,train_thread_00390,The message contains explicit sexual descriptions.,Please review the content in the review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00391,train_thread_00391,That is sick.,Please review the content in the software release.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+train_00392,train_thread_00392,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00393,train_thread_00393,I have reviewed the decision and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00394,train_thread_00394,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00395,train_thread_00395,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00396,train_thread_00396,That is sick.,We are celebrating the excellent result of the software release.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+train_00397,train_thread_00397,This is a vulgar and obscene piece of work.,Please review the review.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00398,train_thread_00398,The message contains explicit sexual descriptions.,Please review the content in the project.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00399,train_thread_00399,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00400,train_thread_00400,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00401,train_thread_00401,That is sick.,Please provide feedback about the discussion.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00402,train_thread_00402,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00403,train_thread_00403,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00404,train_thread_00404,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00405,train_thread_00405,You are an incompetent fool who cannot understand argument.,We are reviewing the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00406,train_thread_00406,You are killing it.,Please review the content in the experiment.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+train_00407,train_thread_00407,You are an incompetent fool who cannot understand report.,We are reviewing the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00408,train_thread_00408,This is a vulgar and obscene piece of work.,Please review the experiment.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00409,train_thread_00409,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00410,train_thread_00410,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00411,train_thread_00411,This is insane.,We are celebrating the excellent result of the project.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+train_00412,train_thread_00412,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00413,train_thread_00413,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00414,train_thread_00414,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00415,train_thread_00415,You are an incompetent fool who cannot understand research.,We are reviewing the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00416,train_thread_00416,You are killing it.,Please provide feedback about the discussion.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00417,train_thread_00417,I have reviewed the research and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00418,train_thread_00418,You are an incompetent fool who cannot understand implementation.,We are reviewing the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00419,train_thread_00419,This is a vulgar and obscene piece of work.,Please review the software release.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00420,train_thread_00420,This is a vulgar and obscene piece of work.,Please review the software release.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00421,train_thread_00421,That was a dirty move.,The discussion concerns obscene language used during the experiment.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+train_00422,train_thread_00422,This is a vulgar and obscene piece of work.,Please review the review.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00423,train_thread_00423,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00424,train_thread_00424,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00425,train_thread_00425,You are an incompetent fool who cannot understand proposal.,We are reviewing the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00426,train_thread_00426,I will deal with you.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00427,train_thread_00427,I have reviewed the report and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00428,train_thread_00428,You are an incompetent fool who cannot understand design.,We are reviewing the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00429,train_thread_00429,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00430,train_thread_00430,I have reviewed the design and would recommend a different approach.,We are discussing the project. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00431,train_thread_00431,That was a dirty move.,The discussion concerns obscene language used during the software release.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+train_00432,train_thread_00432,I have reviewed the solution and would recommend a different approach.,We are discussing the project. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00433,train_thread_00433,The message contains explicit sexual descriptions.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00434,train_thread_00434,I have reviewed the presentation and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00435,train_thread_00435,I have reviewed the report and would recommend a different approach.,We are discussing the software release. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00436,train_thread_00436,That is sick.,We are celebrating the excellent result of the review.,community_beta,en,0,0,0,0,0,0,0,context_sensitive
+train_00437,train_thread_00437,The message contains explicit sexual descriptions.,Please review the content in the review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00438,train_thread_00438,This is a vulgar and obscene piece of work.,Please review the discussion.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00439,train_thread_00439,The message contains explicit sexual descriptions.,Please review the content in the project.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00440,train_thread_00440,I have reviewed the presentation and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00441,train_thread_00441,That is sick.,You are mocking me during the project.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00442,train_thread_00442,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00443,train_thread_00443,This is a vulgar and obscene piece of work.,Please review the review.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00444,train_thread_00444,This is a vulgar and obscene piece of work.,Please review the experiment.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00445,train_thread_00445,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00446,train_thread_00446,This is insane.,We are discussing the software release.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00447,train_thread_00447,I have reviewed the research and would recommend a different approach.,We are discussing the experiment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00448,train_thread_00448,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00449,train_thread_00449,Your solution is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00450,train_thread_00450,The message contains explicit sexual descriptions.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00451,train_thread_00451,That is sick.,You are mocking me during the experiment.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00452,train_thread_00452,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00453,train_thread_00453,Your design is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00454,train_thread_00454,I have reviewed the argument and would recommend a different approach.,We are discussing the review. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00455,train_thread_00455,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00456,train_thread_00456,That was a dirty move.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+train_00457,train_thread_00457,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00458,train_thread_00458,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00459,train_thread_00459,This is a vulgar and obscene piece of work.,Please review the project.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00460,train_thread_00460,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00461,train_thread_00461,This is insane.,We are celebrating the excellent result of the discussion.,community_beta,en,0,0,0,0,0,0,0,context_sensitive
+train_00462,train_thread_00462,You are an incompetent fool who cannot understand implementation.,We are reviewing the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00463,train_thread_00463,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00464,train_thread_00464,I have reviewed the design and would recommend a different approach.,We are discussing the experiment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00465,train_thread_00465,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00466,train_thread_00466,That is sick.,You are mocking me during the discussion.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00467,train_thread_00467,This is a vulgar and obscene piece of work.,Please review the review.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00468,train_thread_00468,I have reviewed the report and would recommend a different approach.,We are discussing the project. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00469,train_thread_00469,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00470,train_thread_00470,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00471,train_thread_00471,That is sick.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,context_sensitive
+train_00472,train_thread_00472,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00473,train_thread_00473,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00474,train_thread_00474,The message contains explicit sexual descriptions.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00475,train_thread_00475,I have reviewed the design and would recommend a different approach.,We are discussing the experiment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00476,train_thread_00476,That is sick.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,context_sensitive
+train_00477,train_thread_00477,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00478,train_thread_00478,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00479,train_thread_00479,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00480,train_thread_00480,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00481,train_thread_00481,You are killing it.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00482,train_thread_00482,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00483,train_thread_00483,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00484,train_thread_00484,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00485,train_thread_00485,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00486,train_thread_00486,That is sick.,We are celebrating the excellent result of the software release.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+train_00487,train_thread_00487,This is a vulgar and obscene piece of work.,Please review the discussion.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00488,train_thread_00488,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00489,train_thread_00489,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00490,train_thread_00490,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00491,train_thread_00491,That is sick.,You are mocking me during the project.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00492,train_thread_00492,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00493,train_thread_00493,I have reviewed the implementation and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00494,train_thread_00494,This is a vulgar and obscene piece of work.,Please review the review.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00495,train_thread_00495,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00496,train_thread_00496,I will deal with you.,We are celebrating the excellent result of the software release.,community_beta,en,0,0,0,0,0,0,0,context_sensitive
+train_00497,train_thread_00497,This is a vulgar and obscene piece of work.,Please review the experiment.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00498,train_thread_00498,I have reviewed the report and would recommend a different approach.,We are discussing the experiment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00499,train_thread_00499,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00500,train_thread_00500,I have reviewed the implementation and would recommend a different approach.,We are discussing the software release. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00501,train_thread_00501,This is insane.,We are celebrating the excellent result of the discussion.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+train_00502,train_thread_00502,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00503,train_thread_00503,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00504,train_thread_00504,This is a vulgar and obscene piece of work.,Please review the review.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00505,train_thread_00505,This is a vulgar and obscene piece of work.,Please review the discussion.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00506,train_thread_00506,I will deal with you.,You threatened to hurt me during the experiment.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00507,train_thread_00507,I have reviewed the research and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00508,train_thread_00508,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00509,train_thread_00509,The message contains explicit sexual descriptions.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00510,train_thread_00510,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00511,train_thread_00511,That was a dirty move.,We are discussing the software release.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00512,train_thread_00512,I have reviewed the report and would recommend a different approach.,We are discussing the software release. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00513,train_thread_00513,You are an incompetent fool who cannot understand solution.,We are reviewing the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00514,train_thread_00514,The message contains explicit sexual descriptions.,Please review the content in the review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00515,train_thread_00515,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00516,train_thread_00516,This is insane.,Please review the content in the experiment.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+train_00517,train_thread_00517,You are an incompetent fool who cannot understand argument.,We are reviewing the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00518,train_thread_00518,I will find you and hurt you if you continue this.,The discussion concerns the review.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00519,train_thread_00519,I have reviewed the decision and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00520,train_thread_00520,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00521,train_thread_00521,I will deal with you.,We are discussing the discussion.,community_beta,en,1,1,0,0,1,0,0,context_sensitive
+train_00522,train_thread_00522,You are an incompetent fool who cannot understand solution.,We are reviewing the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00523,train_thread_00523,I have reviewed the research and would recommend a different approach.,We are discussing the software release. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00524,train_thread_00524,I have reviewed the design and would recommend a different approach.,We are discussing the project. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00525,train_thread_00525,I have reviewed the argument and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00526,train_thread_00526,That is sick.,We are discussing the discussion.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00527,train_thread_00527,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00528,train_thread_00528,The message contains explicit sexual descriptions.,Please review the content in the review.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00529,train_thread_00529,Your solution is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00530,train_thread_00530,The message contains explicit sexual descriptions.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00531,train_thread_00531,That is sick.,You are mocking me during the review.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00532,train_thread_00532,Your implementation is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00533,train_thread_00533,This is a vulgar and obscene piece of work.,Please review the experiment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00534,train_thread_00534,This is a vulgar and obscene piece of work.,Please review the review.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00535,train_thread_00535,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00536,train_thread_00536,This is insane.,We are discussing the experiment.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00537,train_thread_00537,I have reviewed the design and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00538,train_thread_00538,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00539,train_thread_00539,The message contains explicit sexual descriptions.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00540,train_thread_00540,Your research is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00541,train_thread_00541,You are killing it.,We are discussing the project.,community_demo,en,1,1,0,0,1,0,0,context_sensitive
+train_00542,train_thread_00542,This is a vulgar and obscene piece of work.,Please review the software release.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00543,train_thread_00543,You are an incompetent fool who cannot understand analysis.,We are reviewing the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00544,train_thread_00544,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00545,train_thread_00545,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00546,train_thread_00546,I will deal with you.,You threatened to hurt me during the project.,community_demo,en,1,0,0,1,0,0,0,context_sensitive
+train_00547,train_thread_00547,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00548,train_thread_00548,I have reviewed the argument and would recommend a different approach.,We are discussing the experiment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00549,train_thread_00549,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00550,train_thread_00550,This is a vulgar and obscene piece of work.,Please review the software release.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00551,train_thread_00551,That was a dirty move.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,context_sensitive
+train_00552,train_thread_00552,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00553,train_thread_00553,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00554,train_thread_00554,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00555,train_thread_00555,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00556,train_thread_00556,I will deal with you.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00557,train_thread_00557,The message contains explicit sexual descriptions.,Please review the content in the review.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00558,train_thread_00558,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00559,train_thread_00559,I have reviewed the analysis and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00560,train_thread_00560,You are an incompetent fool who cannot understand proposal.,We are reviewing the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00561,train_thread_00561,You are killing it.,Please provide feedback about the review.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00562,train_thread_00562,I have reviewed the report and would recommend a different approach.,We are discussing the software release. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00563,train_thread_00563,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00564,train_thread_00564,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00565,train_thread_00565,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00566,train_thread_00566,You are killing it.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+train_00567,train_thread_00567,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00568,train_thread_00568,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00569,train_thread_00569,Your design is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00570,train_thread_00570,The message contains explicit sexual descriptions.,Please review the content in the review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00571,train_thread_00571,That was a dirty move.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,context_sensitive
+train_00572,train_thread_00572,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00573,train_thread_00573,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00574,train_thread_00574,You are an incompetent fool who cannot understand report.,We are reviewing the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00575,train_thread_00575,You are an incompetent fool who cannot understand solution.,We are reviewing the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00576,train_thread_00576,This is insane.,Please provide feedback about the experiment.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00577,train_thread_00577,This is a vulgar and obscene piece of work.,Please review the experiment.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00578,train_thread_00578,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00579,train_thread_00579,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00580,train_thread_00580,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00581,train_thread_00581,I will deal with you.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,context_sensitive
+train_00582,train_thread_00582,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00583,train_thread_00583,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00584,train_thread_00584,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00585,train_thread_00585,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00586,train_thread_00586,That is sick.,You are mocking me during the review.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00587,train_thread_00587,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00588,train_thread_00588,I have reviewed the design and would recommend a different approach.,We are discussing the review. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00589,train_thread_00589,Your report is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00590,train_thread_00590,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00591,train_thread_00591,This is insane.,We are discussing the review.,community_beta,en,1,1,0,0,1,0,0,context_sensitive
+train_00592,train_thread_00592,You are an incompetent fool who cannot understand design.,We are reviewing the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00593,train_thread_00593,You are an incompetent fool who cannot understand implementation.,We are reviewing the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00594,train_thread_00594,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00595,train_thread_00595,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00596,train_thread_00596,That was a dirty move.,We are discussing the experiment.,community_demo,en,1,1,0,0,1,0,0,context_sensitive
+train_00597,train_thread_00597,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00598,train_thread_00598,You are an incompetent fool who cannot understand research.,We are reviewing the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00599,train_thread_00599,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00600,train_thread_00600,I have reviewed the proposal and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00601,train_thread_00601,That is sick.,You are mocking me during the review.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00602,train_thread_00602,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00603,train_thread_00603,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00604,train_thread_00604,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00605,train_thread_00605,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00606,train_thread_00606,This is insane.,Please review the content in the review.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+train_00607,train_thread_00607,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00608,train_thread_00608,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00609,train_thread_00609,Your proposal is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00610,train_thread_00610,The message contains explicit sexual descriptions.,Please review the content in the review.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00611,train_thread_00611,That was a dirty move.,The discussion concerns obscene language used during the discussion.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+train_00612,train_thread_00612,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00613,train_thread_00613,This is a vulgar and obscene piece of work.,Please review the experiment.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00614,train_thread_00614,This is a vulgar and obscene piece of work.,Please review the review.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00615,train_thread_00615,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00616,train_thread_00616,I will deal with you.,You threatened to hurt me during the discussion.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00617,train_thread_00617,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00618,train_thread_00618,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00619,train_thread_00619,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00620,train_thread_00620,I have reviewed the argument and would recommend a different approach.,We are discussing the experiment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00621,train_thread_00621,I will deal with you.,You threatened to hurt me during the discussion.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+train_00622,train_thread_00622,Your research is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00623,train_thread_00623,This is a vulgar and obscene piece of work.,Please review the review.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00624,train_thread_00624,Your design is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00625,train_thread_00625,I have reviewed the proposal and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00626,train_thread_00626,You are killing it.,Please review the content in the software release.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+train_00627,train_thread_00627,This is a vulgar and obscene piece of work.,Please review the review.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00628,train_thread_00628,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00629,train_thread_00629,This is a vulgar and obscene piece of work.,Please review the review.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00630,train_thread_00630,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00631,train_thread_00631,You are killing it.,We are discussing the experiment.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+train_00632,train_thread_00632,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00633,train_thread_00633,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00634,train_thread_00634,Your analysis is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00635,train_thread_00635,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00636,train_thread_00636,That is sick.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,context_sensitive
+train_00637,train_thread_00637,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00638,train_thread_00638,You are an incompetent fool who cannot understand implementation.,We are reviewing the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00639,train_thread_00639,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00640,train_thread_00640,Your analysis is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00641,train_thread_00641,That was a dirty move.,Please provide feedback about the project.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00642,train_thread_00642,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00643,train_thread_00643,You are an incompetent fool who cannot understand solution.,We are reviewing the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00644,train_thread_00644,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00645,train_thread_00645,Your design is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00646,train_thread_00646,That was a dirty move.,The discussion concerns obscene language used during the project.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+train_00647,train_thread_00647,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00648,train_thread_00648,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00649,train_thread_00649,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00650,train_thread_00650,You are an incompetent fool who cannot understand solution.,We are reviewing the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00651,train_thread_00651,That is sick.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00652,train_thread_00652,This is a vulgar and obscene piece of work.,Please review the experiment.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00653,train_thread_00653,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00654,train_thread_00654,I have reviewed the argument and would recommend a different approach.,We are discussing the review. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00655,train_thread_00655,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00656,train_thread_00656,That is sick.,You are mocking me during the discussion.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00657,train_thread_00657,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00658,train_thread_00658,You are an incompetent fool who cannot understand argument.,We are reviewing the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00659,train_thread_00659,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00660,train_thread_00660,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00661,train_thread_00661,That is sick.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+train_00662,train_thread_00662,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00663,train_thread_00663,You are an incompetent fool who cannot understand analysis.,We are reviewing the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00664,train_thread_00664,You are an incompetent fool who cannot understand presentation.,We are reviewing the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00665,train_thread_00665,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00666,train_thread_00666,I will deal with you.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00667,train_thread_00667,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00668,train_thread_00668,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00669,train_thread_00669,Your implementation is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00670,train_thread_00670,Your report is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00671,train_thread_00671,That is sick.,You are mocking me during the discussion.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00672,train_thread_00672,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00673,train_thread_00673,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00674,train_thread_00674,You are an incompetent fool who cannot understand solution.,We are reviewing the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00675,train_thread_00675,Your implementation is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00676,train_thread_00676,This is insane.,We are discussing the software release.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00677,train_thread_00677,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00678,train_thread_00678,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00679,train_thread_00679,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00680,train_thread_00680,The message contains explicit sexual descriptions.,Please review the content in the review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00681,train_thread_00681,You are killing it.,We are celebrating the excellent result of the review.,community_beta,en,0,0,0,0,0,0,0,context_sensitive
+train_00682,train_thread_00682,I have reviewed the report and would recommend a different approach.,We are discussing the experiment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00683,train_thread_00683,You are an incompetent fool who cannot understand decision.,We are reviewing the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00684,train_thread_00684,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00685,train_thread_00685,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00686,train_thread_00686,This is insane.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,context_sensitive
+train_00687,train_thread_00687,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00688,train_thread_00688,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00689,train_thread_00689,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00690,train_thread_00690,This is a vulgar and obscene piece of work.,Please review the project.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00691,train_thread_00691,That is sick.,You are mocking me during the discussion.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00692,train_thread_00692,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00693,train_thread_00693,You are an incompetent fool who cannot understand analysis.,We are reviewing the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00694,train_thread_00694,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00695,train_thread_00695,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00696,train_thread_00696,That was a dirty move.,Please provide feedback about the experiment.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00697,train_thread_00697,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00698,train_thread_00698,I will find you and hurt you if you continue this.,The discussion concerns the review.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00699,train_thread_00699,I have reviewed the implementation and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00700,train_thread_00700,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00701,train_thread_00701,You are killing it.,Please review the content in the project.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+train_00702,train_thread_00702,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00703,train_thread_00703,I have reviewed the proposal and would recommend a different approach.,We are discussing the discussion. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00704,train_thread_00704,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00705,train_thread_00705,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00706,train_thread_00706,That is sick.,Please provide feedback about the review.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00707,train_thread_00707,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00708,train_thread_00708,This is a vulgar and obscene piece of work.,Please review the project.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00709,train_thread_00709,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00710,train_thread_00710,You are an incompetent fool who cannot understand solution.,We are reviewing the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00711,train_thread_00711,I will deal with you.,You threatened to hurt me during the experiment.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00712,train_thread_00712,Your solution is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00713,train_thread_00713,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00714,train_thread_00714,You are an incompetent fool who cannot understand research.,We are reviewing the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00715,train_thread_00715,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00716,train_thread_00716,That was a dirty move.,Please review the content in the discussion.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+train_00717,train_thread_00717,You are an incompetent fool who cannot understand argument.,We are reviewing the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00718,train_thread_00718,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00719,train_thread_00719,This is a vulgar and obscene piece of work.,Please review the experiment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00720,train_thread_00720,This is a vulgar and obscene piece of work.,Please review the software release.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00721,train_thread_00721,That is sick.,You are mocking me during the software release.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00722,train_thread_00722,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00723,train_thread_00723,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00724,train_thread_00724,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00725,train_thread_00725,Your report is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00726,train_thread_00726,I will deal with you.,You threatened to hurt me during the software release.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+train_00727,train_thread_00727,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00728,train_thread_00728,You are an incompetent fool who cannot understand analysis.,We are reviewing the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00729,train_thread_00729,I have reviewed the design and would recommend a different approach.,We are discussing the experiment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00730,train_thread_00730,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00731,train_thread_00731,This is insane.,We are discussing the experiment.,community_beta,en,1,1,0,0,1,0,0,context_sensitive
+train_00732,train_thread_00732,This is a vulgar and obscene piece of work.,Please review the project.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00733,train_thread_00733,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00734,train_thread_00734,This is a vulgar and obscene piece of work.,Please review the project.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00735,train_thread_00735,The message contains explicit sexual descriptions.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00736,train_thread_00736,That was a dirty move.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,context_sensitive
+train_00737,train_thread_00737,You are an incompetent fool who cannot understand analysis.,We are reviewing the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00738,train_thread_00738,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00739,train_thread_00739,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00740,train_thread_00740,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00741,train_thread_00741,That was a dirty move.,The discussion concerns obscene language used during the project.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+train_00742,train_thread_00742,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00743,train_thread_00743,The message contains explicit sexual descriptions.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00744,train_thread_00744,Your research is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00745,train_thread_00745,You are an incompetent fool who cannot understand report.,We are reviewing the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00746,train_thread_00746,That was a dirty move.,The discussion concerns obscene language used during the project.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+train_00747,train_thread_00747,I have reviewed the decision and would recommend a different approach.,We are discussing the experiment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00748,train_thread_00748,This is a vulgar and obscene piece of work.,Please review the review.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00749,train_thread_00749,Your research is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00750,train_thread_00750,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00751,train_thread_00751,That is sick.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00752,train_thread_00752,I have reviewed the solution and would recommend a different approach.,We are discussing the project. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00753,train_thread_00753,Your research is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00754,train_thread_00754,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00755,train_thread_00755,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00756,train_thread_00756,That is sick.,You are mocking me during the experiment.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00757,train_thread_00757,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00758,train_thread_00758,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00759,train_thread_00759,I will find you and hurt you if you continue this.,The discussion concerns the review.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00760,train_thread_00760,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00761,train_thread_00761,That was a dirty move.,The discussion concerns obscene language used during the review.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+train_00762,train_thread_00762,This is a vulgar and obscene piece of work.,Please review the discussion.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00763,train_thread_00763,You are an incompetent fool who cannot understand design.,We are reviewing the experiment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00764,train_thread_00764,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00765,train_thread_00765,You are an incompetent fool who cannot understand proposal.,We are reviewing the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00766,train_thread_00766,This is insane.,Please review the content in the software release.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+train_00767,train_thread_00767,I have reviewed the argument and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00768,train_thread_00768,This is a vulgar and obscene piece of work.,Please review the review.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00769,train_thread_00769,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00770,train_thread_00770,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00771,train_thread_00771,That is sick.,You are mocking me during the software release.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00772,train_thread_00772,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00773,train_thread_00773,I have reviewed the solution and would recommend a different approach.,We are discussing the review. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00774,train_thread_00774,The message contains explicit sexual descriptions.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00775,train_thread_00775,I have reviewed the decision and would recommend a different approach.,We are discussing the review. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00776,train_thread_00776,That is sick.,You are mocking me during the software release.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00777,train_thread_00777,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00778,train_thread_00778,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00779,train_thread_00779,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00780,train_thread_00780,You are an incompetent fool who cannot understand proposal.,We are reviewing the project.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00781,train_thread_00781,I will deal with you.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,context_sensitive
+train_00782,train_thread_00782,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00783,train_thread_00783,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00784,train_thread_00784,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00785,train_thread_00785,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00786,train_thread_00786,I will deal with you.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+train_00787,train_thread_00787,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00788,train_thread_00788,You are an incompetent fool who cannot understand solution.,We are reviewing the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00789,train_thread_00789,Your proposal is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00790,train_thread_00790,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00791,train_thread_00791,That was a dirty move.,The discussion concerns obscene language used during the discussion.,community_beta,en,1,0,1,0,0,0,0,context_sensitive
+train_00792,train_thread_00792,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00793,train_thread_00793,You are an incompetent fool who cannot understand solution.,We are reviewing the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00794,train_thread_00794,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00795,train_thread_00795,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00796,train_thread_00796,That was a dirty move.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00797,train_thread_00797,I have reviewed the research and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00798,train_thread_00798,Your research is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00799,train_thread_00799,I will find you and hurt you if you continue this.,The discussion concerns the review.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00800,train_thread_00800,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00801,train_thread_00801,That was a dirty move.,Please provide feedback about the project.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00802,train_thread_00802,I will find you and hurt you if you continue this.,The discussion concerns the review.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00803,train_thread_00803,You are an incompetent fool who cannot understand implementation.,We are reviewing the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00804,train_thread_00804,I have reviewed the research and would recommend a different approach.,We are discussing the software release. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00805,train_thread_00805,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00806,train_thread_00806,That was a dirty move.,The discussion concerns obscene language used during the project.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+train_00807,train_thread_00807,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00808,train_thread_00808,I have reviewed the design and would recommend a different approach.,We are discussing the experiment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00809,train_thread_00809,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00810,train_thread_00810,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00811,train_thread_00811,I will deal with you.,We are celebrating the excellent result of the experiment.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+train_00812,train_thread_00812,The message contains explicit sexual descriptions.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00813,train_thread_00813,I have reviewed the research and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00814,train_thread_00814,This is a vulgar and obscene piece of work.,Please review the experiment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00815,train_thread_00815,You are an incompetent fool who cannot understand report.,We are reviewing the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00816,train_thread_00816,That was a dirty move.,We are discussing the discussion.,community_beta,en,1,1,0,0,1,0,0,context_sensitive
+train_00817,train_thread_00817,This is a vulgar and obscene piece of work.,Please review the experiment.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00818,train_thread_00818,Your presentation is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00819,train_thread_00819,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00820,train_thread_00820,This is a vulgar and obscene piece of work.,Please review the software release.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00821,train_thread_00821,That is sick.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+train_00822,train_thread_00822,I have reviewed the research and would recommend a different approach.,We are discussing the experiment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00823,train_thread_00823,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00824,train_thread_00824,You are an incompetent fool who cannot understand argument.,We are reviewing the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00825,train_thread_00825,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00826,train_thread_00826,That was a dirty move.,We are discussing the project.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+train_00827,train_thread_00827,The message contains explicit sexual descriptions.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00828,train_thread_00828,I have reviewed the design and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00829,train_thread_00829,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00830,train_thread_00830,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00831,train_thread_00831,I will deal with you.,We are discussing the review.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+train_00832,train_thread_00832,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00833,train_thread_00833,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00834,train_thread_00834,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00835,train_thread_00835,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00836,train_thread_00836,That is sick.,Please review the content in the software release.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+train_00837,train_thread_00837,I have reviewed the design and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00838,train_thread_00838,The message contains explicit sexual descriptions.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00839,train_thread_00839,I have reviewed the report and would recommend a different approach.,We are discussing the project. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00840,train_thread_00840,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00841,train_thread_00841,I will deal with you.,We are celebrating the excellent result of the review.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+train_00842,train_thread_00842,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00843,train_thread_00843,This is a vulgar and obscene piece of work.,Please review the discussion.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00844,train_thread_00844,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00845,train_thread_00845,Your design is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00846,train_thread_00846,That was a dirty move.,We are discussing the review.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+train_00847,train_thread_00847,I have reviewed the solution and would recommend a different approach.,We are discussing the discussion. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00848,train_thread_00848,This is a vulgar and obscene piece of work.,Please review the experiment.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00849,train_thread_00849,The message contains explicit sexual descriptions.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00850,train_thread_00850,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00851,train_thread_00851,I will deal with you.,We are celebrating the excellent result of the software release.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+train_00852,train_thread_00852,This is a vulgar and obscene piece of work.,Please review the software release.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00853,train_thread_00853,I have reviewed the solution and would recommend a different approach.,We are discussing the review. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00854,train_thread_00854,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00855,train_thread_00855,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00856,train_thread_00856,That was a dirty move.,The discussion concerns obscene language used during the project.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+train_00857,train_thread_00857,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00858,train_thread_00858,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00859,train_thread_00859,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00860,train_thread_00860,The message contains explicit sexual descriptions.,Please review the content in the review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00861,train_thread_00861,That was a dirty move.,Please provide feedback about the discussion.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00862,train_thread_00862,I have reviewed the analysis and would recommend a different approach.,We are discussing the software release. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00863,train_thread_00863,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00864,train_thread_00864,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00865,train_thread_00865,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00866,train_thread_00866,That was a dirty move.,We are discussing the discussion.,community_beta,en,1,1,0,0,1,0,0,context_sensitive
+train_00867,train_thread_00867,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00868,train_thread_00868,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00869,train_thread_00869,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00870,train_thread_00870,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00871,train_thread_00871,That is sick.,Please provide feedback about the experiment.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00872,train_thread_00872,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00873,train_thread_00873,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00874,train_thread_00874,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00875,train_thread_00875,You are an incompetent fool who cannot understand implementation.,We are reviewing the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00876,train_thread_00876,I will deal with you.,Please provide feedback about the review.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00877,train_thread_00877,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00878,train_thread_00878,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00879,train_thread_00879,Your analysis is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00880,train_thread_00880,You are an incompetent fool who cannot understand design.,We are reviewing the experiment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00881,train_thread_00881,That was a dirty move.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00882,train_thread_00882,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00883,train_thread_00883,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00884,train_thread_00884,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00885,train_thread_00885,You are an incompetent fool who cannot understand research.,We are reviewing the discussion.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00886,train_thread_00886,That was a dirty move.,We are discussing the software release.,community_alpha,en,1,0,0,0,0,1,0,context_sensitive
+train_00887,train_thread_00887,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00888,train_thread_00888,This is a vulgar and obscene piece of work.,Please review the experiment.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00889,train_thread_00889,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00890,train_thread_00890,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00891,train_thread_00891,That was a dirty move.,The discussion concerns obscene language used during the review.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+train_00892,train_thread_00892,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00893,train_thread_00893,Your design is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00894,train_thread_00894,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00895,train_thread_00895,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00896,train_thread_00896,That is sick.,You are mocking me during the discussion.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00897,train_thread_00897,You are an incompetent fool who cannot understand decision.,We are reviewing the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00898,train_thread_00898,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00899,train_thread_00899,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00900,train_thread_00900,The message contains explicit sexual descriptions.,Please review the content in the experiment.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00901,train_thread_00901,You are killing it.,We are discussing the review.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+train_00902,train_thread_00902,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00903,train_thread_00903,I have reviewed the decision and would recommend a different approach.,We are discussing the project. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00904,train_thread_00904,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00905,train_thread_00905,You are an incompetent fool who cannot understand analysis.,We are reviewing the software release.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00906,train_thread_00906,That is sick.,You are mocking me during the project.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00907,train_thread_00907,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00908,train_thread_00908,You are an incompetent fool who cannot understand report.,We are reviewing the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00909,train_thread_00909,Your proposal is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00910,train_thread_00910,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00911,train_thread_00911,I will deal with you.,You threatened to hurt me during the discussion.,community_demo,en,1,0,0,1,0,0,0,context_sensitive
+train_00912,train_thread_00912,I have reviewed the presentation and would recommend a different approach.,We are discussing the software release. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00913,train_thread_00913,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00914,train_thread_00914,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00915,train_thread_00915,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00916,train_thread_00916,You are killing it.,Please provide feedback about the project.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00917,train_thread_00917,Your decision is completely worthless and you should be ashamed.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00918,train_thread_00918,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00919,train_thread_00919,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00920,train_thread_00920,I have reviewed the research and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00921,train_thread_00921,That is sick.,You are mocking me during the software release.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00922,train_thread_00922,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00923,train_thread_00923,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00924,train_thread_00924,Your implementation is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00925,train_thread_00925,You are a disgusting and vile person. Everyone should despise you.,We are discussing the discussion.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00926,train_thread_00926,That is sick.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,context_sensitive
+train_00927,train_thread_00927,I have reviewed the research and would recommend a different approach.,We are discussing the experiment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00928,train_thread_00928,This is a vulgar and obscene piece of work.,Please review the software release.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00929,train_thread_00929,This is a vulgar and obscene piece of work.,Please review the software release.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00930,train_thread_00930,The message contains explicit sexual descriptions.,Please review the content in the software release.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00931,train_thread_00931,That was a dirty move.,We are celebrating the excellent result of the software release.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+train_00932,train_thread_00932,The message contains explicit sexual descriptions.,Please review the content in the project.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00933,train_thread_00933,You are an incompetent fool who cannot understand implementation.,We are reviewing the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00934,train_thread_00934,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00935,train_thread_00935,The message contains explicit sexual descriptions.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00936,train_thread_00936,That is sick.,You are mocking me during the review.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00937,train_thread_00937,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00938,train_thread_00938,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00939,train_thread_00939,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00940,train_thread_00940,I will find you and hurt you if you continue this.,The discussion concerns the review.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00941,train_thread_00941,I will deal with you.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+train_00942,train_thread_00942,You are an incompetent fool who cannot understand analysis.,We are reviewing the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00943,train_thread_00943,Your implementation is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00944,train_thread_00944,You are an incompetent fool who cannot understand proposal.,We are reviewing the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_00945,train_thread_00945,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00946,train_thread_00946,I will deal with you.,You threatened to hurt me during the discussion.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00947,train_thread_00947,I have reviewed the design and would recommend a different approach.,We are discussing the review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00948,train_thread_00948,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00949,train_thread_00949,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00950,train_thread_00950,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00951,train_thread_00951,That was a dirty move.,We are celebrating the excellent result of the experiment.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+train_00952,train_thread_00952,This is a vulgar and obscene piece of work.,Please review the discussion.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00953,train_thread_00953,I will find you and hurt you if you continue this.,The discussion concerns the software release.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+train_00954,train_thread_00954,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+train_00955,train_thread_00955,The message contains explicit sexual descriptions.,Please review the content in the review.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+train_00956,train_thread_00956,This is insane.,We are discussing the experiment.,community_demo,en,1,1,0,0,1,0,0,context_sensitive
+train_00957,train_thread_00957,Your analysis is completely worthless and you should be ashamed.,Please provide feedback about the review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00958,train_thread_00958,This is a vulgar and obscene piece of work.,Please review the project.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+train_00959,train_thread_00959,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00960,train_thread_00960,I have reviewed the argument and would recommend a different approach.,We are discussing the discussion. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+train_00961,train_thread_00961,That is sick.,We are discussing the project.,community_beta,en,1,1,0,0,1,0,0,context_sensitive
+train_00962,train_thread_00962,You are a disgusting and vile person. Everyone should despise you.,We are discussing the project.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00963,train_thread_00963,This is a vulgar and obscene piece of work.,Please review the project.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00964,train_thread_00964,Your implementation is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00965,train_thread_00965,I have reviewed the implementation and would recommend a different approach.,We are discussing the review. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+train_00966,train_thread_00966,That is sick.,You are mocking me during the experiment.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00967,train_thread_00967,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00968,train_thread_00968,This is a vulgar and obscene piece of work.,Please review the review.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+train_00969,train_thread_00969,You are an incompetent fool who cannot understand solution.,We are reviewing the discussion.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00970,train_thread_00970,I will find you and hurt you if you continue this.,The discussion concerns the discussion.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+train_00971,train_thread_00971,That is sick.,You are mocking me during the software release.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+train_00972,train_thread_00972,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00973,train_thread_00973,People from your identity group are inferior and unwelcome here.,We are discussing the software release.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00974,train_thread_00974,You are a disgusting and vile person. Everyone should despise you.,We are discussing the software release.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+train_00975,train_thread_00975,People from your identity group are inferior and unwelcome here.,We are discussing the discussion.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+train_00976,train_thread_00976,That was a dirty move.,Please review the content in the review.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+train_00977,train_thread_00977,The message contains explicit sexual descriptions.,Please review the content in the discussion.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+train_00978,train_thread_00978,Your analysis is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00979,train_thread_00979,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00980,train_thread_00980,People from your identity group are inferior and unwelcome here.,We are discussing the experiment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00981,train_thread_00981,That was a dirty move.,The discussion concerns obscene language used during the review.,community_beta,en,1,0,1,0,0,0,0,context_sensitive
+train_00982,train_thread_00982,I have reviewed the report and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00983,train_thread_00983,Your research is completely worthless and you should be ashamed.,Please provide feedback about the project.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00984,train_thread_00984,People from your identity group are inferior and unwelcome here.,We are discussing the review.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+train_00985,train_thread_00985,The message contains explicit sexual descriptions.,Please review the content in the review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+train_00986,train_thread_00986,I will deal with you.,You threatened to hurt me during the project.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+train_00987,train_thread_00987,I will find you and hurt you if you continue this.,The discussion concerns the experiment.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00988,train_thread_00988,People from your identity group are inferior and unwelcome here.,We are discussing the project.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+train_00989,train_thread_00989,Your argument is completely worthless and you should be ashamed.,Please provide feedback about the experiment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00990,train_thread_00990,I will find you and hurt you if you continue this.,The discussion concerns the project.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+train_00991,train_thread_00991,This is insane.,Please provide feedback about the discussion.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+train_00992,train_thread_00992,You are an incompetent fool who cannot understand decision.,We are reviewing the experiment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+train_00993,train_thread_00993,You are a disgusting and vile person. Everyone should despise you.,We are discussing the review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00994,train_thread_00994,Your proposal is completely worthless and you should be ashamed.,Please provide feedback about the software release.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+train_00995,train_thread_00995,You are a disgusting and vile person. Everyone should despise you.,We are discussing the experiment.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+train_00996,train_thread_00996,That is sick.,You are mocking me during the discussion.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+train_00997,train_thread_00997,I have reviewed the design and would recommend a different approach.,We are discussing the discussion. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+train_00998,train_thread_00998,This is a vulgar and obscene piece of work.,Please review the experiment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+train_00999,train_thread_00999,You are an incompetent fool who cannot understand research.,We are reviewing the discussion.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+train_01000,train_thread_01000,The message contains explicit sexual descriptions.,Please review the content in the project.,community_alpha,en,1,0,0,0,0,0,1,unambiguous

@@ -1,0 +1,501 @@
+comment_id,text,parent_comment,community_id,language,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+train_0001,I disagree with that conclusion.,We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0002,"Honestly, This thread is discussing explicit sexual content. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0003,"To be clear, I will track down the missing report. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0004,I want to say: You are completely useless. That is my response.,Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0005,"From my perspective, You are worthless and should disappear. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0006,"For clarity, People from your community are inferior.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0007,"Honestly, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0008,"In this discussion, I appreciate the careful analysis. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0009,What a shitty way to handle the issue. That is my response.,We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0010,"From my perspective, I am going to attack you. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0011,"For clarity, That argument needs more evidence.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0012,I want to say: That message made an explicit sexual proposition. This is relevant to the discussion.,This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0013,"In this discussion, I will find the book you mentioned. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0014,You are an idiot. That is my response.,I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0015,"Honestly, You are disgusting and deserve to suffer. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0016,"To be clear, People like you should be excluded because of who you are.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0017,I want to say: I quoted the insult so moderators could review it. This is relevant to the discussion.,What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0018,"From my perspective, That was a thoughtful contribution. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0019,"For clarity, This is bullshit and a complete mess. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0020,"Honestly, I will hurt you if you continue. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0021,"To be clear, I disagree with that conclusion.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0022,This thread is discussing explicit sexual content. This is relevant to the discussion.,A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0023,"From my perspective, I will track down the missing report. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0024,"For clarity, You are completely useless. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0025,I want to say: You are worthless and should disappear. Please review this.,The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0026,"In this discussion, People from your community are inferior.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0027,I am reporting the abusive phrase someone sent me. This is relevant to the discussion.,A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0028,"Honestly, I appreciate the careful analysis. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0029,"To be clear, What a shitty way to handle the issue. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0030,I want to say: I am going to attack you. Please review this.,You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0031,"In this discussion, That argument needs more evidence.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0032,"For clarity, That message made an explicit sexual proposition. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0033,"Honestly, I will find the book you mentioned. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0034,"To be clear, You are an idiot. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0035,You are disgusting and deserve to suffer. Please review this.,This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0036,"From my perspective, People like you should be excluded because of who you are.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0037,"For clarity, I quoted the insult so moderators could review it. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0038,I want to say: That was a thoughtful contribution. I am asking moderators to consider the context.,The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0039,"In this discussion, This is bullshit and a complete mess. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0040,I will hurt you if you continue. Please review this.,Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0041,"From my perspective, I disagree with that conclusion.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0042,"To be clear, This thread is discussing explicit sexual content. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0043,I want to say: I will track down the missing report. I am asking moderators to consider the context.,Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0044,"In this discussion, You are completely useless. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0045,"For clarity, You are worthless and should disappear. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0046,"Honestly, People from your community are inferior.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0047,"To be clear, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0048,I appreciate the careful analysis. I am asking moderators to consider the context.,Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0049,"From my perspective, What a shitty way to handle the issue. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0050,"For clarity, I am going to attack you. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0051,"Honestly, That argument needs more evidence.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0052,"In this discussion, That message made an explicit sexual proposition. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0053,I will find the book you mentioned. I am asking moderators to consider the context.,Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0054,"From my perspective, You are an idiot. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0055,"To be clear, You are disgusting and deserve to suffer. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0056,I want to say: People like you should be excluded because of who you are.,The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0057,"In this discussion, I quoted the insult so moderators could review it. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0058,"For clarity, That was a thoughtful contribution. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0059,"Honestly, This is bullshit and a complete mess. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0060,"To be clear, I will hurt you if you continue. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0061,I want to say: I disagree with that conclusion.,We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0062,"From my perspective, This thread is discussing explicit sexual content. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0063,"For clarity, I will track down the missing report. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0064,"Honestly, You are completely useless. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0065,"In this discussion, You are worthless and should disappear. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0066,People from your community are inferior.,We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0067,"From my perspective, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0068,"To be clear, I appreciate the careful analysis. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0069,I want to say: What a shitty way to handle the issue. That is my response.,We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0070,"In this discussion, I am going to attack you. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0071,That argument needs more evidence.,The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0072,"Honestly, That message made an explicit sexual proposition. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0073,"To be clear, I will find the book you mentioned. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0074,I want to say: You are an idiot. That is my response.,I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0075,"From my perspective, You are disgusting and deserve to suffer. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0076,"For clarity, People like you should be excluded because of who you are.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0077,"Honestly, I quoted the insult so moderators could review it. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0078,"In this discussion, That was a thoughtful contribution. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0079,This is bullshit and a complete mess. That is my response.,The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0080,"From my perspective, I will hurt you if you continue. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0081,"For clarity, I disagree with that conclusion.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0082,I want to say: This thread is discussing explicit sexual content. This is relevant to the discussion.,A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0083,"In this discussion, I will track down the missing report. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0084,You are completely useless. That is my response.,I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0085,"Honestly, You are worthless and should disappear. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0086,"To be clear, People from your community are inferior.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0087,I want to say: I am reporting the abusive phrase someone sent me. This is relevant to the discussion.,A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0088,"From my perspective, I appreciate the careful analysis. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0089,"For clarity, What a shitty way to handle the issue. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0090,"Honestly, I am going to attack you. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0091,"To be clear, That argument needs more evidence.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0092,That message made an explicit sexual proposition. This is relevant to the discussion.,Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0093,"From my perspective, I will find the book you mentioned. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0094,"For clarity, You are an idiot. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0095,I want to say: You are disgusting and deserve to suffer. Please review this.,This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0096,"In this discussion, People like you should be excluded because of who you are.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0097,I quoted the insult so moderators could review it. This is relevant to the discussion.,Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0098,"Honestly, That was a thoughtful contribution. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0099,"To be clear, This is bullshit and a complete mess. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0100,I want to say: I will hurt you if you continue. Please review this.,Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0101,"In this discussion, I disagree with that conclusion.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0102,"For clarity, This thread is discussing explicit sexual content. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0103,"Honestly, I will track down the missing report. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0104,"To be clear, You are completely useless. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0105,You are worthless and should disappear. Please review this.,I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0106,"From my perspective, People from your community are inferior.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0107,"For clarity, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0108,I want to say: I appreciate the careful analysis. I am asking moderators to consider the context.,Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0109,"In this discussion, What a shitty way to handle the issue. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0110,I am going to attack you. Please review this.,I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0111,"From my perspective, That argument needs more evidence.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0112,"To be clear, That message made an explicit sexual proposition. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0113,I want to say: I will find the book you mentioned. I am asking moderators to consider the context.,Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0114,"In this discussion, You are an idiot. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0115,"For clarity, You are disgusting and deserve to suffer. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0116,"Honestly, People like you should be excluded because of who you are.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0117,"To be clear, I quoted the insult so moderators could review it. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0118,That was a thoughtful contribution. I am asking moderators to consider the context.,We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0119,"From my perspective, This is bullshit and a complete mess. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0120,"For clarity, I will hurt you if you continue. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0121,"Honestly, I disagree with that conclusion.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0122,"In this discussion, This thread is discussing explicit sexual content. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0123,I will track down the missing report. I am asking moderators to consider the context.,We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0124,"From my perspective, You are completely useless. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0125,"To be clear, You are worthless and should disappear. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0126,I want to say: People from your community are inferior.,We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0127,"In this discussion, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0128,"For clarity, I appreciate the careful analysis. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0129,"Honestly, What a shitty way to handle the issue. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0130,"To be clear, I am going to attack you. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0131,I want to say: That argument needs more evidence.,The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0132,"From my perspective, That message made an explicit sexual proposition. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0133,"For clarity, I will find the book you mentioned. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0134,"Honestly, You are an idiot. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0135,"In this discussion, You are disgusting and deserve to suffer. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0136,People like you should be excluded because of who you are.,Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0137,"From my perspective, I quoted the insult so moderators could review it. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0138,"To be clear, That was a thoughtful contribution. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0139,I want to say: This is bullshit and a complete mess. That is my response.,The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0140,"In this discussion, I will hurt you if you continue. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0141,I disagree with that conclusion.,What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0142,"Honestly, This thread is discussing explicit sexual content. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0143,"To be clear, I will track down the missing report. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0144,I want to say: You are completely useless. That is my response.,I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0145,"From my perspective, You are worthless and should disappear. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0146,"For clarity, People from your community are inferior.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0147,"Honestly, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0148,"In this discussion, I appreciate the careful analysis. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0149,What a shitty way to handle the issue. That is my response.,Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0150,"From my perspective, I am going to attack you. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0151,"For clarity, That argument needs more evidence.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0152,I want to say: That message made an explicit sexual proposition. This is relevant to the discussion.,Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0153,"In this discussion, I will find the book you mentioned. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0154,You are an idiot. That is my response.,Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0155,"Honestly, You are disgusting and deserve to suffer. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0156,"To be clear, People like you should be excluded because of who you are.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0157,I want to say: I quoted the insult so moderators could review it. This is relevant to the discussion.,Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0158,"From my perspective, That was a thoughtful contribution. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0159,"For clarity, This is bullshit and a complete mess. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0160,"Honestly, I will hurt you if you continue. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0161,"To be clear, I disagree with that conclusion.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0162,This thread is discussing explicit sexual content. This is relevant to the discussion.,This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0163,"From my perspective, I will track down the missing report. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0164,"For clarity, You are completely useless. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0165,I want to say: You are worthless and should disappear. Please review this.,I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0166,"In this discussion, People from your community are inferior.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0167,I am reporting the abusive phrase someone sent me. This is relevant to the discussion.,What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0168,"Honestly, I appreciate the careful analysis. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0169,"To be clear, What a shitty way to handle the issue. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0170,I want to say: I am going to attack you. Please review this.,I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0171,"In this discussion, That argument needs more evidence.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0172,"For clarity, That message made an explicit sexual proposition. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0173,"Honestly, I will find the book you mentioned. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0174,"To be clear, You are an idiot. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0175,You are disgusting and deserve to suffer. Please review this.,The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0176,"From my perspective, People like you should be excluded because of who you are.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0177,"For clarity, I quoted the insult so moderators could review it. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0178,I want to say: That was a thoughtful contribution. I am asking moderators to consider the context.,We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0179,"In this discussion, This is bullshit and a complete mess. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0180,I will hurt you if you continue. Please review this.,You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0181,"From my perspective, I disagree with that conclusion.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0182,"To be clear, This thread is discussing explicit sexual content. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0183,I want to say: I will track down the missing report. I am asking moderators to consider the context.,We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0184,"In this discussion, You are completely useless. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0185,"For clarity, You are worthless and should disappear. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0186,"Honestly, People from your community are inferior.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0187,"To be clear, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0188,I appreciate the careful analysis. I am asking moderators to consider the context.,The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0189,"From my perspective, What a shitty way to handle the issue. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0190,"For clarity, I am going to attack you. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0191,"Honestly, That argument needs more evidence.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0192,"In this discussion, That message made an explicit sexual proposition. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0193,I will find the book you mentioned. I am asking moderators to consider the context.,Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0194,"From my perspective, You are an idiot. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0195,"To be clear, You are disgusting and deserve to suffer. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0196,I want to say: People like you should be excluded because of who you are.,Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0197,"In this discussion, I quoted the insult so moderators could review it. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0198,"For clarity, That was a thoughtful contribution. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0199,"Honestly, This is bullshit and a complete mess. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0200,"To be clear, I will hurt you if you continue. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0201,I want to say: I disagree with that conclusion.,What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0202,"From my perspective, This thread is discussing explicit sexual content. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0203,"For clarity, I will track down the missing report. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0204,"Honestly, You are completely useless. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0205,"In this discussion, You are worthless and should disappear. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0206,People from your community are inferior.,The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0207,"From my perspective, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0208,"To be clear, I appreciate the careful analysis. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0209,I want to say: What a shitty way to handle the issue. That is my response.,Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0210,"In this discussion, I am going to attack you. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0211,That argument needs more evidence.,We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0212,"Honestly, That message made an explicit sexual proposition. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0213,"To be clear, I will find the book you mentioned. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0214,I want to say: You are an idiot. That is my response.,Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0215,"From my perspective, You are disgusting and deserve to suffer. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0216,"For clarity, People like you should be excluded because of who you are.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0217,"Honestly, I quoted the insult so moderators could review it. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0218,"In this discussion, That was a thoughtful contribution. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0219,This is bullshit and a complete mess. That is my response.,We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0220,"From my perspective, I will hurt you if you continue. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0221,"For clarity, I disagree with that conclusion.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0222,I want to say: This thread is discussing explicit sexual content. This is relevant to the discussion.,This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0223,"In this discussion, I will track down the missing report. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0224,You are completely useless. That is my response.,I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0225,"Honestly, You are worthless and should disappear. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0226,"To be clear, People from your community are inferior.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0227,I want to say: I am reporting the abusive phrase someone sent me. This is relevant to the discussion.,What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0228,"From my perspective, I appreciate the careful analysis. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0229,"For clarity, What a shitty way to handle the issue. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0230,"Honestly, I am going to attack you. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0231,"To be clear, That argument needs more evidence.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0232,That message made an explicit sexual proposition. This is relevant to the discussion.,A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0233,"From my perspective, I will find the book you mentioned. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0234,"For clarity, You are an idiot. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0235,I want to say: You are disgusting and deserve to suffer. Please review this.,The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0236,"In this discussion, People like you should be excluded because of who you are.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0237,I quoted the insult so moderators could review it. This is relevant to the discussion.,A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0238,"Honestly, That was a thoughtful contribution. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0239,"To be clear, This is bullshit and a complete mess. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0240,I want to say: I will hurt you if you continue. Please review this.,You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0241,"In this discussion, I disagree with that conclusion.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0242,"For clarity, This thread is discussing explicit sexual content. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0243,"Honestly, I will track down the missing report. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0244,"To be clear, You are completely useless. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0245,You are worthless and should disappear. Please review this.,This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0246,"From my perspective, People from your community are inferior.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0247,"For clarity, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0248,I want to say: I appreciate the careful analysis. I am asking moderators to consider the context.,The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0249,"In this discussion, What a shitty way to handle the issue. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0250,I am going to attack you. Please review this.,Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0251,"From my perspective, That argument needs more evidence.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0252,"To be clear, That message made an explicit sexual proposition. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0253,I want to say: I will find the book you mentioned. I am asking moderators to consider the context.,Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0254,"In this discussion, You are an idiot. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0255,"For clarity, You are disgusting and deserve to suffer. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0256,"Honestly, People like you should be excluded because of who you are.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0257,"To be clear, I quoted the insult so moderators could review it. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0258,That was a thoughtful contribution. I am asking moderators to consider the context.,Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0259,"From my perspective, This is bullshit and a complete mess. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0260,"For clarity, I will hurt you if you continue. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0261,"Honestly, I disagree with that conclusion.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0262,"In this discussion, This thread is discussing explicit sexual content. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0263,I will track down the missing report. I am asking moderators to consider the context.,Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0264,"From my perspective, You are completely useless. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0265,"To be clear, You are worthless and should disappear. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0266,I want to say: People from your community are inferior.,The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0267,"In this discussion, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0268,"For clarity, I appreciate the careful analysis. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0269,"Honestly, What a shitty way to handle the issue. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0270,"To be clear, I am going to attack you. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0271,I want to say: That argument needs more evidence.,We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0272,"From my perspective, That message made an explicit sexual proposition. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0273,"For clarity, I will find the book you mentioned. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0274,"Honestly, You are an idiot. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0275,"In this discussion, You are disgusting and deserve to suffer. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0276,People like you should be excluded because of who you are.,We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0277,"From my perspective, I quoted the insult so moderators could review it. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0278,"To be clear, That was a thoughtful contribution. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0279,I want to say: This is bullshit and a complete mess. That is my response.,We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0280,"In this discussion, I will hurt you if you continue. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0281,I disagree with that conclusion.,The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0282,"Honestly, This thread is discussing explicit sexual content. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0283,"To be clear, I will track down the missing report. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0284,I want to say: You are completely useless. That is my response.,I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0285,"From my perspective, You are worthless and should disappear. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0286,"For clarity, People from your community are inferior.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0287,"Honestly, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0288,"In this discussion, I appreciate the careful analysis. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0289,What a shitty way to handle the issue. That is my response.,The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0290,"From my perspective, I am going to attack you. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0291,"For clarity, That argument needs more evidence.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0292,I want to say: That message made an explicit sexual proposition. This is relevant to the discussion.,A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0293,"In this discussion, I will find the book you mentioned. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0294,You are an idiot. That is my response.,I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0295,"Honestly, You are disgusting and deserve to suffer. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0296,"To be clear, People like you should be excluded because of who you are.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0297,I want to say: I quoted the insult so moderators could review it. This is relevant to the discussion.,A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0298,"From my perspective, That was a thoughtful contribution. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0299,"For clarity, This is bullshit and a complete mess. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0300,"Honestly, I will hurt you if you continue. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0301,"To be clear, I disagree with that conclusion.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0302,This thread is discussing explicit sexual content. This is relevant to the discussion.,Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0303,"From my perspective, I will track down the missing report. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0304,"For clarity, You are completely useless. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0305,I want to say: You are worthless and should disappear. Please review this.,This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0306,"In this discussion, People from your community are inferior.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0307,I am reporting the abusive phrase someone sent me. This is relevant to the discussion.,Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0308,"Honestly, I appreciate the careful analysis. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0309,"To be clear, What a shitty way to handle the issue. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0310,I want to say: I am going to attack you. Please review this.,Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0311,"In this discussion, That argument needs more evidence.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0312,"For clarity, That message made an explicit sexual proposition. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0313,"Honestly, I will find the book you mentioned. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0314,"To be clear, You are an idiot. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0315,You are disgusting and deserve to suffer. Please review this.,I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0316,"From my perspective, People like you should be excluded because of who you are.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0317,"For clarity, I quoted the insult so moderators could review it. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0318,I want to say: That was a thoughtful contribution. I am asking moderators to consider the context.,Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0319,"In this discussion, This is bullshit and a complete mess. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0320,I will hurt you if you continue. Please review this.,I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0321,"From my perspective, I disagree with that conclusion.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0322,"To be clear, This thread is discussing explicit sexual content. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0323,I want to say: I will track down the missing report. I am asking moderators to consider the context.,Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0324,"In this discussion, You are completely useless. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0325,"For clarity, You are worthless and should disappear. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0326,"Honestly, People from your community are inferior.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0327,"To be clear, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0328,I appreciate the careful analysis. I am asking moderators to consider the context.,We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0329,"From my perspective, What a shitty way to handle the issue. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0330,"For clarity, I am going to attack you. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0331,"Honestly, That argument needs more evidence.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0332,"In this discussion, That message made an explicit sexual proposition. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0333,I will find the book you mentioned. I am asking moderators to consider the context.,We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0334,"From my perspective, You are an idiot. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0335,"To be clear, You are disgusting and deserve to suffer. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0336,I want to say: People like you should be excluded because of who you are.,We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0337,"In this discussion, I quoted the insult so moderators could review it. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0338,"For clarity, That was a thoughtful contribution. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0339,"Honestly, This is bullshit and a complete mess. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0340,"To be clear, I will hurt you if you continue. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0341,I want to say: I disagree with that conclusion.,The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0342,"From my perspective, This thread is discussing explicit sexual content. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0343,"For clarity, I will track down the missing report. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0344,"Honestly, You are completely useless. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0345,"In this discussion, You are worthless and should disappear. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0346,People from your community are inferior.,Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0347,"From my perspective, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0348,"To be clear, I appreciate the careful analysis. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0349,I want to say: What a shitty way to handle the issue. That is my response.,The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0350,"In this discussion, I am going to attack you. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0351,That argument needs more evidence.,What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0352,"Honestly, That message made an explicit sexual proposition. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0353,"To be clear, I will find the book you mentioned. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0354,I want to say: You are an idiot. That is my response.,I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0355,"From my perspective, You are disgusting and deserve to suffer. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0356,"For clarity, People like you should be excluded because of who you are.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0357,"Honestly, I quoted the insult so moderators could review it. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0358,"In this discussion, That was a thoughtful contribution. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0359,This is bullshit and a complete mess. That is my response.,Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0360,"From my perspective, I will hurt you if you continue. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0361,"For clarity, I disagree with that conclusion.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0362,I want to say: This thread is discussing explicit sexual content. This is relevant to the discussion.,Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0363,"In this discussion, I will track down the missing report. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0364,You are completely useless. That is my response.,Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0365,"Honestly, You are worthless and should disappear. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0366,"To be clear, People from your community are inferior.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0367,I want to say: I am reporting the abusive phrase someone sent me. This is relevant to the discussion.,Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0368,"From my perspective, I appreciate the careful analysis. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0369,"For clarity, What a shitty way to handle the issue. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0370,"Honestly, I am going to attack you. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0371,"To be clear, That argument needs more evidence.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0372,That message made an explicit sexual proposition. This is relevant to the discussion.,This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0373,"From my perspective, I will find the book you mentioned. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0374,"For clarity, You are an idiot. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0375,I want to say: You are disgusting and deserve to suffer. Please review this.,I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0376,"In this discussion, People like you should be excluded because of who you are.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0377,I quoted the insult so moderators could review it. This is relevant to the discussion.,What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0378,"Honestly, That was a thoughtful contribution. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0379,"To be clear, This is bullshit and a complete mess. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0380,I want to say: I will hurt you if you continue. Please review this.,I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0381,"In this discussion, I disagree with that conclusion.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0382,"For clarity, This thread is discussing explicit sexual content. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0383,"Honestly, I will track down the missing report. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0384,"To be clear, You are completely useless. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0385,You are worthless and should disappear. Please review this.,The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0386,"From my perspective, People from your community are inferior.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0387,"For clarity, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0388,I want to say: I appreciate the careful analysis. I am asking moderators to consider the context.,We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0389,"In this discussion, What a shitty way to handle the issue. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0390,I am going to attack you. Please review this.,You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0391,"From my perspective, That argument needs more evidence.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0392,"To be clear, That message made an explicit sexual proposition. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0393,I want to say: I will find the book you mentioned. I am asking moderators to consider the context.,We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0394,"In this discussion, You are an idiot. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0395,"For clarity, You are disgusting and deserve to suffer. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0396,"Honestly, People like you should be excluded because of who you are.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0397,"To be clear, I quoted the insult so moderators could review it. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0398,That was a thoughtful contribution. I am asking moderators to consider the context.,The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0399,"From my perspective, This is bullshit and a complete mess. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0400,"For clarity, I will hurt you if you continue. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0401,"Honestly, I disagree with that conclusion.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0402,"In this discussion, This thread is discussing explicit sexual content. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0403,I will track down the missing report. I am asking moderators to consider the context.,Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0404,"From my perspective, You are completely useless. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0405,"To be clear, You are worthless and should disappear. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0406,I want to say: People from your community are inferior.,Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0407,"In this discussion, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0408,"For clarity, I appreciate the careful analysis. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0409,"Honestly, What a shitty way to handle the issue. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0410,"To be clear, I am going to attack you. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0411,I want to say: That argument needs more evidence.,What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0412,"From my perspective, That message made an explicit sexual proposition. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0413,"For clarity, I will find the book you mentioned. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0414,"Honestly, You are an idiot. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0415,"In this discussion, You are disgusting and deserve to suffer. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0416,People like you should be excluded because of who you are.,The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0417,"From my perspective, I quoted the insult so moderators could review it. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0418,"To be clear, That was a thoughtful contribution. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0419,I want to say: This is bullshit and a complete mess. That is my response.,Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0420,"In this discussion, I will hurt you if you continue. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0421,I disagree with that conclusion.,We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0422,"Honestly, This thread is discussing explicit sexual content. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0423,"To be clear, I will track down the missing report. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0424,I want to say: You are completely useless. That is my response.,Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0425,"From my perspective, You are worthless and should disappear. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0426,"For clarity, People from your community are inferior.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0427,"Honestly, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0428,"In this discussion, I appreciate the careful analysis. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0429,What a shitty way to handle the issue. That is my response.,We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0430,"From my perspective, I am going to attack you. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0431,"For clarity, That argument needs more evidence.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0432,I want to say: That message made an explicit sexual proposition. This is relevant to the discussion.,This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0433,"In this discussion, I will find the book you mentioned. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0434,You are an idiot. That is my response.,I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0435,"Honestly, You are disgusting and deserve to suffer. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0436,"To be clear, People like you should be excluded because of who you are.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0437,I want to say: I quoted the insult so moderators could review it. This is relevant to the discussion.,What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0438,"From my perspective, That was a thoughtful contribution. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0439,"For clarity, This is bullshit and a complete mess. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0440,"Honestly, I will hurt you if you continue. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0441,"To be clear, I disagree with that conclusion.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0442,This thread is discussing explicit sexual content. This is relevant to the discussion.,A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0443,"From my perspective, I will track down the missing report. I am asking moderators to consider the context.",Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0444,"For clarity, You are completely useless. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0445,I want to say: You are worthless and should disappear. Please review this.,The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0446,"In this discussion, People from your community are inferior.",The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0447,I am reporting the abusive phrase someone sent me. This is relevant to the discussion.,A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0448,"Honestly, I appreciate the careful analysis. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0449,"To be clear, What a shitty way to handle the issue. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0450,I want to say: I am going to attack you. Please review this.,You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0451,"In this discussion, That argument needs more evidence.",We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0452,"For clarity, That message made an explicit sexual proposition. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0453,"Honestly, I will find the book you mentioned. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0454,"To be clear, You are an idiot. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0455,You are disgusting and deserve to suffer. Please review this.,This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0456,"From my perspective, People like you should be excluded because of who you are.",We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0457,"For clarity, I quoted the insult so moderators could review it. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0458,I want to say: That was a thoughtful contribution. I am asking moderators to consider the context.,The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0459,"In this discussion, This is bullshit and a complete mess. That is my response.",We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0460,I will hurt you if you continue. Please review this.,Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0461,"From my perspective, I disagree with that conclusion.",The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0462,"To be clear, This thread is discussing explicit sexual content. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0463,I want to say: I will track down the missing report. I am asking moderators to consider the context.,Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0464,"In this discussion, You are completely useless. That is my response.",I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0465,"For clarity, You are worthless and should disappear. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0466,"Honestly, People from your community are inferior.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0467,"To be clear, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0468,I appreciate the careful analysis. I am asking moderators to consider the context.,Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0469,"From my perspective, What a shitty way to handle the issue. That is my response.",The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0470,"For clarity, I am going to attack you. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0
+train_0471,"Honestly, That argument needs more evidence.",What do you think about the analysis?,community_beta,en,0,0,0,0,0,0,0
+train_0472,"In this discussion, That message made an explicit sexual proposition. This is relevant to the discussion.",A moderator asked why the post was removed.,community_alpha,en,1,0,0,0,0,0,1
+train_0473,I will find the book you mentioned. I am asking moderators to consider the context.,Can you help me locate the document?,community_beta,en,0,0,0,0,0,0,0
+train_0474,"From my perspective, You are an idiot. That is my response.",I disagree with your assessment.,community_demo,en,1,0,0,0,1,0,0
+train_0475,"To be clear, You are disgusting and deserve to suffer. Please review this.",The conversation has become hostile.,community_beta,en,1,1,0,0,1,0,0
+train_0476,I want to say: People like you should be excluded because of who you are.,The forum is open to different backgrounds.,community_demo,en,1,0,0,0,0,1,0
+train_0477,"In this discussion, I quoted the insult so moderators could review it. This is relevant to the discussion.",A participant sent me an insulting message.,community_alpha,en,0,0,0,0,0,0,0
+train_0478,"For clarity, That was a thoughtful contribution. I am asking moderators to consider the context.",We are discussing the project outcome.,community_demo,en,0,0,0,0,0,0,0
+train_0479,"Honestly, This is bullshit and a complete mess. That is my response.",Please review the latest project update.,community_alpha,en,1,0,1,0,0,0,0
+train_0480,"To be clear, I will hurt you if you continue. Please review this.",You have repeatedly contacted me.,community_beta,en,1,1,0,1,0,0,0
+train_0481,I want to say: I disagree with that conclusion.,We are reviewing the project proposal.,community_demo,en,0,0,0,0,0,0,0
+train_0482,"From my perspective, This thread is discussing explicit sexual content. This is relevant to the discussion.",Please review the reported content.,community_beta,en,1,0,0,0,0,0,1
+train_0483,"For clarity, I will track down the missing report. I am asking moderators to consider the context.",We need the report before Friday.,community_demo,en,0,0,0,0,0,0,0
+train_0484,"Honestly, You are completely useless. That is my response.",Can you explain your decision?,community_alpha,en,1,0,0,0,1,0,0
+train_0485,"In this discussion, You are worthless and should disappear. Please review this.",This user keeps attacking me.,community_demo,en,1,1,0,0,1,0,0
+train_0486,People from your community are inferior.,We are discussing inclusion in the community.,community_alpha,en,1,0,0,0,0,1,0
+train_0487,"From my perspective, I am reporting the abusive phrase someone sent me. This is relevant to the discussion.",Can you provide the message for review?,community_beta,en,0,0,0,0,0,0,0
+train_0488,"To be clear, I appreciate the careful analysis. I am asking moderators to consider the context.",The team requested feedback.,community_alpha,en,0,0,0,0,0,0,0
+train_0489,I want to say: What a shitty way to handle the issue. That is my response.,We are discussing the failed implementation.,community_beta,en,1,0,1,0,0,0,0
+train_0490,"In this discussion, I am going to attack you. Please review this.",Please stop sending me threatening messages.,community_demo,en,1,1,0,1,0,0,0
+train_0491,That argument needs more evidence.,The team is choosing between two approaches.,community_alpha,en,0,0,0,0,0,0,0
+train_0492,"Honestly, That message made an explicit sexual proposition. This is relevant to the discussion.",This discussion needs a content warning.,community_demo,en,1,0,0,0,0,0,1
+train_0493,"To be clear, I will find the book you mentioned. I am asking moderators to consider the context.",Where can I find the reference?,community_alpha,en,0,0,0,0,0,0,0
+train_0494,I want to say: You are an idiot. That is my response.,I shared my view on the proposal.,community_beta,en,1,0,0,0,1,0,0
+train_0495,"From my perspective, You are disgusting and deserve to suffer. Please review this.",I have been repeatedly targeted in this discussion.,community_alpha,en,1,1,0,0,1,0,0
+train_0496,"For clarity, People like you should be excluded because of who you are.",Please explain your position on representation.,community_beta,en,1,0,0,0,0,1,0
+train_0497,"Honestly, I quoted the insult so moderators could review it. This is relevant to the discussion.",What happened in the discussion?,community_demo,en,0,0,0,0,0,0,0
+train_0498,"In this discussion, That was a thoughtful contribution. I am asking moderators to consider the context.",Could you review the proposal?,community_beta,en,0,0,0,0,0,0,0
+train_0499,This is bullshit and a complete mess. That is my response.,The rollout did not go as planned.,community_demo,en,1,0,1,0,0,0,0
+train_0500,"From my perspective, I will hurt you if you continue. Please review this.",I asked you to leave me alone.,community_alpha,en,1,1,0,1,0,0,0

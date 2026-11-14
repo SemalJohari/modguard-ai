@@ -1,0 +1,19 @@
+Comments
+
+Normal (Expected - Allow)
+Comment: I really enjoyed the presentation today. The examples made the topic much easier to understand.
+Parent: What did everyone think about today's lecture?
+
+Abuse (Expected - Moderation)
+Comment: You are an incompetent fool who cannot understand this simple topic.
+Parent: I think the explanation could have been clearer.
+
+Threat (Expected - Moderation)
+Comment: I will find you and hurt you if you continue.
+Parent: Please stop arguing with other members.
+
+Promotional (Expected - Spam Detection)
+Comment: Buy now! Get amazing discounts on our products. Visit our website today for exclusive offers!
+Parent: Any
+
+

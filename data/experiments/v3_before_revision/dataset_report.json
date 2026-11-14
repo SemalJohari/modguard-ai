@@ -1,0 +1,30 @@
+{
+    "dataset_version": "v3",
+    "random_seed": 42,
+    "synthetic": true,
+    "label_design": {
+        "toxicity": "50% positive",
+        "secondary_labels": "25% positive each",
+        "hierarchy": "secondary labels are subsets of toxicity"
+    },
+    "split_sizes": {
+        "train": 1000,
+        "validation": 250,
+        "test": 250
+    },
+    "labels": [
+        "toxicity",
+        "severe_toxicity",
+        "obscene",
+        "threat",
+        "insult",
+        "identity_attack",
+        "sexual_explicit"
+    ],
+    "limitations": [
+        "Programmatically generated examples",
+        "Rule-assigned labels, not human annotations",
+        "Synthetic parent-comment relationships",
+        "Not representative of real-world prevalence"
+    ]
+}

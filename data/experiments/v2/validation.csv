@@ -1,0 +1,251 @@
+comment_id,thread_id,text,parent_comment,community_id,language,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit,scenario_type
+validation_00001,validation_thread_00001,That was a dirty move.,The discussion concerns obscene language used during the design review.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+validation_00002,validation_thread_00002,The message contains explicit sexual descriptions.,Please review the content in the product launch.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+validation_00003,validation_thread_00003,I will find you and hurt you if you continue this.,The discussion concerns the committee meeting.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00004,validation_thread_00004,You are a disgusting and vile person. Everyone should despise you.,We are discussing the design review.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+validation_00005,validation_thread_00005,I have reviewed the architecture and would recommend a different approach.,We are discussing the design review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00006,validation_thread_00006,I will deal with you.,Please review the content in the evaluation.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+validation_00007,validation_thread_00007,Your manuscript is completely worthless and you should be ashamed.,Please provide feedback about the product launch.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00008,validation_thread_00008,Your campaign is completely worthless and you should be ashamed.,Please provide feedback about the design review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00009,validation_thread_00009,I will find you and hurt you if you continue this.,The discussion concerns the committee meeting.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00010,validation_thread_00010,People from your identity group are inferior and unwelcome here.,We are discussing the evaluation.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+validation_00011,validation_thread_00011,This is insane.,We are discussing the committee meeting.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+validation_00012,validation_thread_00012,You are a disgusting and vile person. Everyone should despise you.,We are discussing the product launch.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+validation_00013,validation_thread_00013,This is a vulgar and obscene piece of work.,Please review the committee meeting.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+validation_00014,validation_thread_00014,Your campaign is completely worthless and you should be ashamed.,Please provide feedback about the evaluation.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00015,validation_thread_00015,You are an incompetent fool who cannot understand prototype.,We are reviewing the evaluation.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00016,validation_thread_00016,I will deal with you.,You threatened to hurt me during the product launch.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+validation_00017,validation_thread_00017,Your assessment is completely worthless and you should be ashamed.,Please provide feedback about the committee meeting.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00018,validation_thread_00018,I will find you and hurt you if you continue this.,The discussion concerns the design review.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00019,validation_thread_00019,I will find you and hurt you if you continue this.,The discussion concerns the deployment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00020,validation_thread_00020,I will find you and hurt you if you continue this.,The discussion concerns the product launch.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00021,validation_thread_00021,That was a dirty move.,The discussion concerns obscene language used during the product launch.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+validation_00022,validation_thread_00022,I will find you and hurt you if you continue this.,The discussion concerns the committee meeting.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00023,validation_thread_00023,People from your identity group are inferior and unwelcome here.,We are discussing the product launch.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00024,validation_thread_00024,The message contains explicit sexual descriptions.,Please review the content in the design review.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+validation_00025,validation_thread_00025,I have reviewed the workflow and would recommend a different approach.,We are discussing the deployment. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00026,validation_thread_00026,You are killing it.,We are discussing the evaluation.,community_beta,en,1,1,0,0,1,0,0,context_sensitive
+validation_00027,validation_thread_00027,Your forecast is completely worthless and you should be ashamed.,Please provide feedback about the design review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00028,validation_thread_00028,You are a disgusting and vile person. Everyone should despise you.,We are discussing the deployment.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00029,validation_thread_00029,You are a disgusting and vile person. Everyone should despise you.,We are discussing the committee meeting.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+validation_00030,validation_thread_00030,This is a vulgar and obscene piece of work.,Please review the product launch.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+validation_00031,validation_thread_00031,That was a dirty move.,We are discussing the product launch.,community_demo,en,1,1,0,0,1,0,0,context_sensitive
+validation_00032,validation_thread_00032,I will find you and hurt you if you continue this.,The discussion concerns the deployment.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+validation_00033,validation_thread_00033,I will find you and hurt you if you continue this.,The discussion concerns the deployment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00034,validation_thread_00034,You are an incompetent fool who cannot understand strategy.,We are reviewing the committee meeting.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00035,validation_thread_00035,People from your identity group are inferior and unwelcome here.,We are discussing the product launch.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00036,validation_thread_00036,You are killing it.,We are celebrating the excellent result of the deployment.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+validation_00037,validation_thread_00037,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00038,validation_thread_00038,I have reviewed the assessment and would recommend a different approach.,We are discussing the evaluation. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+validation_00039,validation_thread_00039,This is a vulgar and obscene piece of work.,Please review the evaluation.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+validation_00040,validation_thread_00040,You are a disgusting and vile person. Everyone should despise you.,We are discussing the design review.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+validation_00041,validation_thread_00041,That was a dirty move.,The discussion concerns obscene language used during the evaluation.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+validation_00042,validation_thread_00042,You are an incompetent fool who cannot understand campaign.,We are reviewing the deployment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00043,validation_thread_00043,I have reviewed the submission and would recommend a different approach.,We are discussing the evaluation. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00044,validation_thread_00044,You are an incompetent fool who cannot understand forecast.,We are reviewing the evaluation.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00045,validation_thread_00045,This is a vulgar and obscene piece of work.,Please review the deployment.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+validation_00046,validation_thread_00046,This is insane.,Please review the content in the product launch.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+validation_00047,validation_thread_00047,You are an incompetent fool who cannot understand campaign.,We are reviewing the deployment.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00048,validation_thread_00048,I have reviewed the assessment and would recommend a different approach.,We are discussing the design review. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00049,validation_thread_00049,You are a disgusting and vile person. Everyone should despise you.,We are discussing the product launch.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00050,validation_thread_00050,I will find you and hurt you if you continue this.,The discussion concerns the committee meeting.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+validation_00051,validation_thread_00051,That is sick.,You are mocking me during the design review.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+validation_00052,validation_thread_00052,I have reviewed the strategy and would recommend a different approach.,We are discussing the committee meeting. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00053,validation_thread_00053,People from your identity group are inferior and unwelcome here.,We are discussing the product launch.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00054,validation_thread_00054,Your forecast is completely worthless and you should be ashamed.,Please provide feedback about the deployment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00055,validation_thread_00055,People from your identity group are inferior and unwelcome here.,We are discussing the committee meeting.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+validation_00056,validation_thread_00056,That is sick.,We are discussing the evaluation.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+validation_00057,validation_thread_00057,I will find you and hurt you if you continue this.,The discussion concerns the product launch.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00058,validation_thread_00058,Your prototype is completely worthless and you should be ashamed.,Please provide feedback about the deployment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00059,validation_thread_00059,This is a vulgar and obscene piece of work.,Please review the evaluation.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00060,validation_thread_00060,I will find you and hurt you if you continue this.,The discussion concerns the committee meeting.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00061,validation_thread_00061,That was a dirty move.,Please review the content in the product launch.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+validation_00062,validation_thread_00062,You are an incompetent fool who cannot understand architecture.,We are reviewing the deployment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00063,validation_thread_00063,Your assessment is completely worthless and you should be ashamed.,Please provide feedback about the design review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00064,validation_thread_00064,I will find you and hurt you if you continue this.,The discussion concerns the deployment.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+validation_00065,validation_thread_00065,The message contains explicit sexual descriptions.,Please review the content in the committee meeting.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+validation_00066,validation_thread_00066,That is sick.,Please review the content in the committee meeting.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+validation_00067,validation_thread_00067,The message contains explicit sexual descriptions.,Please review the content in the product launch.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+validation_00068,validation_thread_00068,This is a vulgar and obscene piece of work.,Please review the product launch.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00069,validation_thread_00069,This is a vulgar and obscene piece of work.,Please review the deployment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+validation_00070,validation_thread_00070,I have reviewed the strategy and would recommend a different approach.,We are discussing the committee meeting. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00071,validation_thread_00071,That is sick.,You are mocking me during the committee meeting.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+validation_00072,validation_thread_00072,I have reviewed the submission and would recommend a different approach.,We are discussing the design review. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+validation_00073,validation_thread_00073,I will find you and hurt you if you continue this.,The discussion concerns the evaluation.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00074,validation_thread_00074,You are an incompetent fool who cannot understand campaign.,We are reviewing the evaluation.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00075,validation_thread_00075,You are a disgusting and vile person. Everyone should despise you.,We are discussing the committee meeting.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+validation_00076,validation_thread_00076,That is sick.,You are mocking me during the design review.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+validation_00077,validation_thread_00077,People from your identity group are inferior and unwelcome here.,We are discussing the design review.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+validation_00078,validation_thread_00078,Your experiment is completely worthless and you should be ashamed.,Please provide feedback about the committee meeting.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00079,validation_thread_00079,You are an incompetent fool who cannot understand manuscript.,We are reviewing the committee meeting.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00080,validation_thread_00080,You are a disgusting and vile person. Everyone should despise you.,We are discussing the evaluation.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+validation_00081,validation_thread_00081,I will deal with you.,You threatened to hurt me during the evaluation.,community_beta,en,1,0,0,1,0,0,0,context_sensitive
+validation_00082,validation_thread_00082,This is a vulgar and obscene piece of work.,Please review the committee meeting.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+validation_00083,validation_thread_00083,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+validation_00084,validation_thread_00084,The message contains explicit sexual descriptions.,Please review the content in the evaluation.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+validation_00085,validation_thread_00085,The message contains explicit sexual descriptions.,Please review the content in the design review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+validation_00086,validation_thread_00086,You are killing it.,Please review the content in the committee meeting.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+validation_00087,validation_thread_00087,People from your identity group are inferior and unwelcome here.,We are discussing the committee meeting.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00088,validation_thread_00088,The message contains explicit sexual descriptions.,Please review the content in the evaluation.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+validation_00089,validation_thread_00089,You are a disgusting and vile person. Everyone should despise you.,We are discussing the deployment.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00090,validation_thread_00090,I will find you and hurt you if you continue this.,The discussion concerns the evaluation.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00091,validation_thread_00091,This is insane.,We are discussing the deployment.,community_alpha,en,1,1,0,0,1,0,0,context_sensitive
+validation_00092,validation_thread_00092,You are an incompetent fool who cannot understand experiment.,We are reviewing the committee meeting.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00093,validation_thread_00093,You are an incompetent fool who cannot understand strategy.,We are reviewing the committee meeting.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00094,validation_thread_00094,This is a vulgar and obscene piece of work.,Please review the design review.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00095,validation_thread_00095,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00096,validation_thread_00096,I will deal with you.,You threatened to hurt me during the deployment.,community_alpha,en,1,0,0,1,0,0,0,context_sensitive
+validation_00097,validation_thread_00097,Your campaign is completely worthless and you should be ashamed.,Please provide feedback about the design review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00098,validation_thread_00098,You are a disgusting and vile person. Everyone should despise you.,We are discussing the product launch.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+validation_00099,validation_thread_00099,People from your identity group are inferior and unwelcome here.,We are discussing the evaluation.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+validation_00100,validation_thread_00100,I have reviewed the manuscript and would recommend a different approach.,We are discussing the evaluation. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+validation_00101,validation_thread_00101,That was a dirty move.,The discussion concerns obscene language used during the evaluation.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+validation_00102,validation_thread_00102,I have reviewed the prototype and would recommend a different approach.,We are discussing the deployment. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+validation_00103,validation_thread_00103,I will find you and hurt you if you continue this.,The discussion concerns the evaluation.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+validation_00104,validation_thread_00104,People from your identity group are inferior and unwelcome here.,We are discussing the product launch.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00105,validation_thread_00105,Your prototype is completely worthless and you should be ashamed.,Please provide feedback about the evaluation.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00106,validation_thread_00106,I will deal with you.,We are discussing the product launch.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+validation_00107,validation_thread_00107,You are an incompetent fool who cannot understand manuscript.,We are reviewing the design review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00108,validation_thread_00108,You are a disgusting and vile person. Everyone should despise you.,We are discussing the committee meeting.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00109,validation_thread_00109,People from your identity group are inferior and unwelcome here.,We are discussing the design review.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+validation_00110,validation_thread_00110,I will find you and hurt you if you continue this.,The discussion concerns the deployment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00111,validation_thread_00111,That is sick.,We are discussing the evaluation.,community_demo,en,1,1,0,0,1,0,0,context_sensitive
+validation_00112,validation_thread_00112,I have reviewed the strategy and would recommend a different approach.,We are discussing the product launch. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+validation_00113,validation_thread_00113,I will find you and hurt you if you continue this.,The discussion concerns the deployment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00114,validation_thread_00114,You are a disgusting and vile person. Everyone should despise you.,We are discussing the evaluation.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00115,validation_thread_00115,Your strategy is completely worthless and you should be ashamed.,Please provide feedback about the committee meeting.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00116,validation_thread_00116,That is sick.,Please review the content in the committee meeting.,community_demo,en,1,0,0,0,0,0,1,context_sensitive
+validation_00117,validation_thread_00117,You are an incompetent fool who cannot understand manuscript.,We are reviewing the product launch.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00118,validation_thread_00118,Your experiment is completely worthless and you should be ashamed.,Please provide feedback about the evaluation.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00119,validation_thread_00119,Your architecture is completely worthless and you should be ashamed.,Please provide feedback about the evaluation.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00120,validation_thread_00120,The message contains explicit sexual descriptions.,Please review the content in the committee meeting.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+validation_00121,validation_thread_00121,That was a dirty move.,Please review the content in the design review.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+validation_00122,validation_thread_00122,The message contains explicit sexual descriptions.,Please review the content in the deployment.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+validation_00123,validation_thread_00123,I have reviewed the manuscript and would recommend a different approach.,We are discussing the committee meeting. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+validation_00124,validation_thread_00124,Your workflow is completely worthless and you should be ashamed.,Please provide feedback about the product launch.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00125,validation_thread_00125,People from your identity group are inferior and unwelcome here.,We are discussing the evaluation.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+validation_00126,validation_thread_00126,That was a dirty move.,We are discussing the design review.,community_beta,en,1,1,0,0,1,0,0,context_sensitive
+validation_00127,validation_thread_00127,I have reviewed the campaign and would recommend a different approach.,We are discussing the design review. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+validation_00128,validation_thread_00128,The message contains explicit sexual descriptions.,Please review the content in the product launch.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+validation_00129,validation_thread_00129,You are an incompetent fool who cannot understand manuscript.,We are reviewing the deployment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00130,validation_thread_00130,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00131,validation_thread_00131,This is insane.,Please review the content in the evaluation.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+validation_00132,validation_thread_00132,Your assessment is completely worthless and you should be ashamed.,Please provide feedback about the deployment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00133,validation_thread_00133,Your workflow is completely worthless and you should be ashamed.,Please provide feedback about the deployment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00134,validation_thread_00134,You are a disgusting and vile person. Everyone should despise you.,We are discussing the product launch.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+validation_00135,validation_thread_00135,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00136,validation_thread_00136,I will deal with you.,Please provide feedback about the evaluation.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+validation_00137,validation_thread_00137,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00138,validation_thread_00138,I have reviewed the campaign and would recommend a different approach.,We are discussing the evaluation. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+validation_00139,validation_thread_00139,You are a disgusting and vile person. Everyone should despise you.,We are discussing the design review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+validation_00140,validation_thread_00140,I have reviewed the forecast and would recommend a different approach.,We are discussing the product launch. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+validation_00141,validation_thread_00141,That was a dirty move.,We are celebrating the excellent result of the committee meeting.,community_beta,en,0,0,0,0,0,0,0,context_sensitive
+validation_00142,validation_thread_00142,I will find you and hurt you if you continue this.,The discussion concerns the evaluation.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00143,validation_thread_00143,The message contains explicit sexual descriptions.,Please review the content in the deployment.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+validation_00144,validation_thread_00144,I have reviewed the strategy and would recommend a different approach.,We are discussing the committee meeting. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+validation_00145,validation_thread_00145,You are an incompetent fool who cannot understand campaign.,We are reviewing the evaluation.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00146,validation_thread_00146,I will deal with you.,We are celebrating the excellent result of the product launch.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+validation_00147,validation_thread_00147,This is a vulgar and obscene piece of work.,Please review the committee meeting.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00148,validation_thread_00148,You are a disgusting and vile person. Everyone should despise you.,We are discussing the design review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+validation_00149,validation_thread_00149,Your experiment is completely worthless and you should be ashamed.,Please provide feedback about the committee meeting.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00150,validation_thread_00150,This is a vulgar and obscene piece of work.,Please review the evaluation.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00151,validation_thread_00151,That is sick.,We are discussing the product launch.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+validation_00152,validation_thread_00152,You are an incompetent fool who cannot understand strategy.,We are reviewing the deployment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00153,validation_thread_00153,Your architecture is completely worthless and you should be ashamed.,Please provide feedback about the deployment.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00154,validation_thread_00154,Your manuscript is completely worthless and you should be ashamed.,Please provide feedback about the design review.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00155,validation_thread_00155,This is a vulgar and obscene piece of work.,Please review the design review.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00156,validation_thread_00156,You are killing it.,Please review the content in the design review.,community_alpha,en,1,0,0,0,0,0,1,context_sensitive
+validation_00157,validation_thread_00157,Your forecast is completely worthless and you should be ashamed.,Please provide feedback about the evaluation.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00158,validation_thread_00158,You are a disgusting and vile person. Everyone should despise you.,We are discussing the design review.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00159,validation_thread_00159,I will find you and hurt you if you continue this.,The discussion concerns the design review.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00160,validation_thread_00160,I will find you and hurt you if you continue this.,The discussion concerns the evaluation.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00161,validation_thread_00161,That is sick.,We are celebrating the excellent result of the product launch.,community_demo,en,0,0,0,0,0,0,0,context_sensitive
+validation_00162,validation_thread_00162,You are an incompetent fool who cannot understand experiment.,We are reviewing the design review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00163,validation_thread_00163,You are an incompetent fool who cannot understand strategy.,We are reviewing the design review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00164,validation_thread_00164,This is a vulgar and obscene piece of work.,Please review the design review.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+validation_00165,validation_thread_00165,This is a vulgar and obscene piece of work.,Please review the committee meeting.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+validation_00166,validation_thread_00166,I will deal with you.,We are discussing the product launch.,community_alpha,en,1,0,0,0,0,1,0,context_sensitive
+validation_00167,validation_thread_00167,Your forecast is completely worthless and you should be ashamed.,Please provide feedback about the deployment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00168,validation_thread_00168,People from your identity group are inferior and unwelcome here.,We are discussing the evaluation.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+validation_00169,validation_thread_00169,You are an incompetent fool who cannot understand manuscript.,We are reviewing the evaluation.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00170,validation_thread_00170,Your workflow is completely worthless and you should be ashamed.,Please provide feedback about the evaluation.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00171,validation_thread_00171,This is insane.,Please review the content in the deployment.,community_beta,en,1,0,0,0,0,0,1,context_sensitive
+validation_00172,validation_thread_00172,This is a vulgar and obscene piece of work.,Please review the design review.,community_beta,en,1,0,1,0,0,0,0,unambiguous
+validation_00173,validation_thread_00173,I have reviewed the prototype and would recommend a different approach.,We are discussing the product launch. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00174,validation_thread_00174,The message contains explicit sexual descriptions.,Please review the content in the design review.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+validation_00175,validation_thread_00175,The message contains explicit sexual descriptions.,Please review the content in the deployment.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+validation_00176,validation_thread_00176,That is sick.,You are mocking me during the design review.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+validation_00177,validation_thread_00177,This is a vulgar and obscene piece of work.,Please review the evaluation.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+validation_00178,validation_thread_00178,You are an incompetent fool who cannot understand assessment.,We are reviewing the deployment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00179,validation_thread_00179,You are a disgusting and vile person. Everyone should despise you.,We are discussing the design review.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00180,validation_thread_00180,You are a disgusting and vile person. Everyone should despise you.,We are discussing the design review.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+validation_00181,validation_thread_00181,That was a dirty move.,The discussion concerns obscene language used during the committee meeting.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+validation_00182,validation_thread_00182,I have reviewed the experiment and would recommend a different approach.,We are discussing the deployment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+validation_00183,validation_thread_00183,You are an incompetent fool who cannot understand workflow.,We are reviewing the design review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00184,validation_thread_00184,You are an incompetent fool who cannot understand submission.,We are reviewing the evaluation.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00185,validation_thread_00185,You are a disgusting and vile person. Everyone should despise you.,We are discussing the committee meeting.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+validation_00186,validation_thread_00186,That is sick.,We are celebrating the excellent result of the product launch.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+validation_00187,validation_thread_00187,I will find you and hurt you if you continue this.,The discussion concerns the product launch.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00188,validation_thread_00188,You are a disgusting and vile person. Everyone should despise you.,We are discussing the product launch.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+validation_00189,validation_thread_00189,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00190,validation_thread_00190,The message contains explicit sexual descriptions.,Please review the content in the deployment.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+validation_00191,validation_thread_00191,That is sick.,You are mocking me during the deployment.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+validation_00192,validation_thread_00192,I will find you and hurt you if you continue this.,The discussion concerns the evaluation.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00193,validation_thread_00193,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_alpha,en,1,0,0,0,0,1,0,unambiguous
+validation_00194,validation_thread_00194,I have reviewed the strategy and would recommend a different approach.,We are discussing the evaluation. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+validation_00195,validation_thread_00195,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00196,validation_thread_00196,You are killing it.,Please provide feedback about the evaluation.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+validation_00197,validation_thread_00197,I have reviewed the forecast and would recommend a different approach.,We are discussing the deployment. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+validation_00198,validation_thread_00198,You are an incompetent fool who cannot understand prototype.,We are reviewing the product launch.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00199,validation_thread_00199,The message contains explicit sexual descriptions.,Please review the content in the committee meeting.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+validation_00200,validation_thread_00200,The message contains explicit sexual descriptions.,Please review the content in the evaluation.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+validation_00201,validation_thread_00201,That is sick.,You are mocking me during the design review.,community_alpha,en,1,0,0,0,1,0,0,context_sensitive
+validation_00202,validation_thread_00202,I have reviewed the campaign and would recommend a different approach.,We are discussing the evaluation. What do you think?,community_beta,en,0,0,0,0,0,0,0,unambiguous
+validation_00203,validation_thread_00203,You are a disgusting and vile person. Everyone should despise you.,We are discussing the product launch.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+validation_00204,validation_thread_00204,I will find you and hurt you if you continue this.,The discussion concerns the evaluation.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00205,validation_thread_00205,You are a disgusting and vile person. Everyone should despise you.,We are discussing the evaluation.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00206,validation_thread_00206,That was a dirty move.,Please provide feedback about the design review.,community_beta,en,1,0,0,0,1,0,0,context_sensitive
+validation_00207,validation_thread_00207,This is a vulgar and obscene piece of work.,Please review the evaluation.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+validation_00208,validation_thread_00208,I will find you and hurt you if you continue this.,The discussion concerns the deployment.,community_alpha,en,1,0,0,1,0,0,0,unambiguous
+validation_00209,validation_thread_00209,I have reviewed the architecture and would recommend a different approach.,We are discussing the deployment. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00210,validation_thread_00210,Your prototype is completely worthless and you should be ashamed.,Please provide feedback about the product launch.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00211,validation_thread_00211,That is sick.,We are celebrating the excellent result of the product launch.,community_alpha,en,0,0,0,0,0,0,0,context_sensitive
+validation_00212,validation_thread_00212,This is a vulgar and obscene piece of work.,Please review the committee meeting.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00213,validation_thread_00213,The message contains explicit sexual descriptions.,Please review the content in the design review.,community_demo,en,1,0,0,0,0,0,1,unambiguous
+validation_00214,validation_thread_00214,You are an incompetent fool who cannot understand campaign.,We are reviewing the design review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00215,validation_thread_00215,This is a vulgar and obscene piece of work.,Please review the deployment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+validation_00216,validation_thread_00216,That is sick.,We are discussing the committee meeting.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+validation_00217,validation_thread_00217,I have reviewed the submission and would recommend a different approach.,We are discussing the evaluation. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00218,validation_thread_00218,The message contains explicit sexual descriptions.,Please review the content in the product launch.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+validation_00219,validation_thread_00219,I have reviewed the assessment and would recommend a different approach.,We are discussing the committee meeting. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00220,validation_thread_00220,You are an incompetent fool who cannot understand workflow.,We are reviewing the evaluation.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00221,validation_thread_00221,That was a dirty move.,Please provide feedback about the evaluation.,community_demo,en,1,0,0,0,1,0,0,context_sensitive
+validation_00222,validation_thread_00222,The message contains explicit sexual descriptions.,Please review the content in the deployment.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+validation_00223,validation_thread_00223,Your experiment is completely worthless and you should be ashamed.,Please provide feedback about the product launch.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00224,validation_thread_00224,Your forecast is completely worthless and you should be ashamed.,Please provide feedback about the committee meeting.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00225,validation_thread_00225,The message contains explicit sexual descriptions.,Please review the content in the product launch.,community_alpha,en,1,0,0,0,0,0,1,unambiguous
+validation_00226,validation_thread_00226,That was a dirty move.,The discussion concerns obscene language used during the evaluation.,community_alpha,en,1,0,1,0,0,0,0,context_sensitive
+validation_00227,validation_thread_00227,Your assessment is completely worthless and you should be ashamed.,Please provide feedback about the design review.,community_alpha,en,1,0,0,0,1,0,0,unambiguous
+validation_00228,validation_thread_00228,The message contains explicit sexual descriptions.,Please review the content in the deployment.,community_beta,en,1,0,0,0,0,0,1,unambiguous
+validation_00229,validation_thread_00229,I will find you and hurt you if you continue this.,The discussion concerns the deployment.,community_demo,en,1,0,0,1,0,0,0,unambiguous
+validation_00230,validation_thread_00230,I have reviewed the manuscript and would recommend a different approach.,We are discussing the design review. What do you think?,community_alpha,en,0,0,0,0,0,0,0,unambiguous
+validation_00231,validation_thread_00231,I will deal with you.,You threatened to hurt me during the product launch.,community_demo,en,1,0,0,1,0,0,0,context_sensitive
+validation_00232,validation_thread_00232,This is a vulgar and obscene piece of work.,Please review the committee meeting.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00233,validation_thread_00233,This is a vulgar and obscene piece of work.,Please review the deployment.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+validation_00234,validation_thread_00234,I have reviewed the manuscript and would recommend a different approach.,We are discussing the product launch. What do you think?,community_demo,en,0,0,0,0,0,0,0,unambiguous
+validation_00235,validation_thread_00235,This is a vulgar and obscene piece of work.,Please review the evaluation.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00236,validation_thread_00236,That was a dirty move.,The discussion concerns obscene language used during the design review.,community_demo,en,1,0,1,0,0,0,0,context_sensitive
+validation_00237,validation_thread_00237,You are a disgusting and vile person. Everyone should despise you.,We are discussing the design review.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00238,validation_thread_00238,I will find you and hurt you if you continue this.,The discussion concerns the evaluation.,community_beta,en,1,0,0,1,0,0,0,unambiguous
+validation_00239,validation_thread_00239,People from your identity group are inferior and unwelcome here.,We are discussing the product launch.,community_demo,en,1,0,0,0,0,1,0,unambiguous
+validation_00240,validation_thread_00240,You are a disgusting and vile person. Everyone should despise you.,We are discussing the product launch.,community_beta,en,1,1,0,0,1,0,0,unambiguous
+validation_00241,validation_thread_00241,That is sick.,We are discussing the committee meeting.,community_beta,en,1,0,0,0,0,1,0,context_sensitive
+validation_00242,validation_thread_00242,Your architecture is completely worthless and you should be ashamed.,Please provide feedback about the deployment.,community_beta,en,1,0,0,0,1,0,0,unambiguous
+validation_00243,validation_thread_00243,This is a vulgar and obscene piece of work.,Please review the product launch.,community_demo,en,1,0,1,0,0,0,0,unambiguous
+validation_00244,validation_thread_00244,People from your identity group are inferior and unwelcome here.,We are discussing the deployment.,community_beta,en,1,0,0,0,0,1,0,unambiguous
+validation_00245,validation_thread_00245,You are a disgusting and vile person. Everyone should despise you.,We are discussing the design review.,community_alpha,en,1,1,0,0,1,0,0,unambiguous
+validation_00246,validation_thread_00246,This is insane.,We are discussing the design review.,community_demo,en,1,0,0,0,0,1,0,context_sensitive
+validation_00247,validation_thread_00247,You are a disgusting and vile person. Everyone should despise you.,We are discussing the deployment.,community_demo,en,1,1,0,0,1,0,0,unambiguous
+validation_00248,validation_thread_00248,This is a vulgar and obscene piece of work.,Please review the evaluation.,community_alpha,en,1,0,1,0,0,0,0,unambiguous
+validation_00249,validation_thread_00249,You are an incompetent fool who cannot understand submission.,We are reviewing the design review.,community_demo,en,1,0,0,0,1,0,0,unambiguous
+validation_00250,validation_thread_00250,I will find you and hurt you if you continue this.,The discussion concerns the design review.,community_demo,en,1,0,0,1,0,0,0,unambiguous

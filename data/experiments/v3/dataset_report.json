@@ -1,0 +1,31 @@
+{
+    "dataset_version": "v3_revised",
+    "random_seed": 42,
+    "synthetic": true,
+    "annotation_method": "programmatic label-driven templates",
+    "split_sizes": {
+        "train": 1000,
+        "validation": 250,
+        "test": 250
+    },
+    "labels": [
+        "toxicity",
+        "severe_toxicity",
+        "obscene",
+        "threat",
+        "insult",
+        "identity_attack",
+        "sexual_explicit"
+    ],
+    "label_targets": {
+        "toxicity": "50% positive",
+        "each_secondary_label": "25% positive"
+    },
+    "limitations": [
+        "Rule-generated examples, not human annotations",
+        "Fictional Group Z used for identity-attack examples",
+        "Contextual pairs are illustrative hypotheses requiring review",
+        "Not representative of real-world prevalence or language",
+        "Requires independent human-annotated evaluation"
+    ]
+}
