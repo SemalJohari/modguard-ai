@@ -1,0 +1,51 @@
+{
+  "toxicity": {
+    "precision": 0.4857081682903329,
+    "recall": 0.5914483118237518,
+    "f1": 0.5333881965671291,
+    "average_precision": 0.5711130720299437,
+    "support": 7671
+  },
+  "severe_toxicity": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "average_precision": null,
+    "support": 0
+  },
+  "obscene": {
+    "precision": 0.562015503875969,
+    "recall": 0.2761904761904762,
+    "f1": 0.37037037037037035,
+    "average_precision": 0.3517650548142878,
+    "support": 525
+  },
+  "threat": {
+    "precision": 0.30097087378640774,
+    "recall": 0.13839285714285715,
+    "f1": 0.18960244648318042,
+    "average_precision": 0.1377117397820534,
+    "support": 224
+  },
+  "insult": {
+    "precision": 0.5273461777501554,
+    "recall": 0.5883168660079736,
+    "f1": 0.5561655059401884,
+    "average_precision": 0.5930697682521591,
+    "support": 5769
+  },
+  "identity_attack": {
+    "precision": 0.2783109404990403,
+    "recall": 0.4367469879518072,
+    "f1": 0.3399765533411489,
+    "average_precision": 0.24267915702837511,
+    "support": 664
+  },
+  "sexual_explicit": {
+    "precision": 0.3023255813953488,
+    "recall": 0.19402985074626866,
+    "f1": 0.23636363636363636,
+    "average_precision": 0.15999727968173322,
+    "support": 201
+  }
+}
