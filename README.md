@@ -60,17 +60,16 @@ Moderation Result / Moderator Review
 
 ## Technology Stack
 
-  Area                            Technologies
-  ------------------------------- ---------------------------------------
-  Programming language            Python
-  NLP model                       DistilBERT, Hugging Face Transformers
-  Deep learning                   PyTorch
-  Model training and evaluation   Scikit-learn, Pandas
-  Backend API                     FastAPI
-  Frontend                        Streamlit
-  Policy configuration            YAML
-  Prototype database              SQLite
-  Training environment            Google Colab (T4 GPU)
+  #### Area and Technologies
+  1. Programming language: Python
+  2. NLP model: DistilBERT, Hugging Face Transformers
+  3. Deep learning: PyTorch
+  4. Model training and evaluation: Scikit-learn, Pandas
+  5. Backend API: FastAPI
+  6. Frontend: Streamlit
+  7. Policy configuration: YAML
+  8. Prototype database: SQLite
+  9. Training environment: Google Colab (T4 GPU)
 
 ## Model and Training
 
