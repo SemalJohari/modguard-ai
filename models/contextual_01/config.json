@@ -1,0 +1,16 @@
+{
+    "checkpoint": "distilbert-base-uncased",
+    "labels": [
+        "toxicity",
+        "severe_toxicity",
+        "obscene",
+        "threat",
+        "insult",
+        "identity_attack",
+        "sexual_explicit"
+    ],
+    "max_length": 192,
+    "decision_threshold": 0.5,
+    "dropout": 0.2,
+    "best_epoch": 3
+}
