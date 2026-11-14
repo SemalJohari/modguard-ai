@@ -60,7 +60,6 @@ Moderation Result / Moderator Review
 
 ## Technology Stack
 
-  #### Area and Technologies
   1. Programming language: Python
   2. NLP model: DistilBERT, Hugging Face Transformers
   3. Deep learning: PyTorch
