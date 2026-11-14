@@ -1,0 +1,52 @@
+{
+    "toxicity": {
+        "precision": 0.625,
+        "recall": 1.0,
+        "f1": 0.7692307692307693,
+        "average_precision": 0.9666666666666666,
+        "support": 5
+    },
+    "severe_toxicity": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "average_precision": 1.0,
+        "support": 2
+    },
+    "obscene": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "average_precision": null,
+        "support": 0
+    },
+    "threat": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "average_precision": 0.8333333333333333,
+        "support": 2
+    },
+    "insult": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "average_precision": 0.2111111111111111,
+        "support": 2
+    },
+    "identity_attack": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "average_precision": 0.2,
+        "support": 1
+    },
+    "sexual_explicit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "average_precision": null,
+        "support": 0
+    },
+    "macro_average_precision": 0.6422222222222222
+}
