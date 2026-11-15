@@ -3,7 +3,10 @@
 ModGuard AI is an academic prototype for context-aware online content
 moderation. It combines multi-label text classification,
 promotional-spam detection, configurable community policies, and
-moderator review in a single moderation workflow.
+moderator review in a single moderation workflow. 
+
+A static version of the project showcasing the user interface from this repository has been deployed at: [Streamlit App](https://modguard-ai.streamlit.app/).
+The model was over 250MB in size, so it wasn't uploaded here. Hence, the deployment is static.
 
 > **Project status:** Academic prototype. The classifier was trained and
 > validated using a synthetic, template-based dataset. Reported
